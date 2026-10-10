@@ -7,8 +7,15 @@
   },
   "channels": [
     {
+      "title": "RUDAW",
       "name": "RUDAW",
-      "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8"
+      "stream_url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
+      "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "GENERAL",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafseokktOfnO_SgzFbwz2IsY2P_ujnKv--cKSOVLT_Q"
     },
     {
       "title": "Ava spo",
