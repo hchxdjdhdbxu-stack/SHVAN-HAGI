@@ -128,17 +128,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgeYim6sqUfvVxIZJutW_jEyCrjJ7QMA5UkjrSFj9cQ"
     },
     {
-      "title": "KURDSAT",
-      "name": "KURDSAT",
-      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
-    },
-    {
       "title": "NUCHA TV",
       "name": "NUCHA TV",
       "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
@@ -159,6 +148,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "KURDSAT",
+      "name": "KURDSAT",
+      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
       "title": "KURDMAX",
