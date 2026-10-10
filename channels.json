@@ -227,6 +227,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "NUCHA TV",
+      "name": "NUCHA TV",
+      "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
+      "url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN MOVIES",
       "name": "MMN MOVIES",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
@@ -269,17 +280,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
-      "title": "NUCHA TV",
-      "name": "NUCHA TV",
-      "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
-      "url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVAR TV",
