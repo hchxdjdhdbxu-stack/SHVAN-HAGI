@@ -139,6 +139,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
     },
     {
+      "title": "Welat tv",
+      "name": "Welat tv",
+      "stream_url": "http://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "url": "http://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Befrin TV",
       "name": "Befrin TV",
       "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
@@ -170,17 +181,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
-    },
-    {
-      "title": "Welat tv",
-      "name": "Welat tv",
-      "stream_url": "http://stream.badinan.xyz/welat/tv/playlist.m3u8",
-      "url": "http://stream.badinan.xyz/welat/tv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "KURDSAT",
