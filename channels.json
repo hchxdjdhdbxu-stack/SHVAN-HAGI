@@ -117,6 +117,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
     },
     {
+      "title": "KURDSAT",
+      "name": "KURDSAT",
+      "stream_url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgeYim6sqUfvVxIZJutW_jEyCrjJ7QMA5UkjrSFj9cQ"
+    },
+    {
       "title": "NUCHA TV",
       "name": "NUCHA TV",
       "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
@@ -148,17 +159,6 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
-    },
-    {
-      "title": "KURDSAT",
-      "name": "KURDSAT",
-      "stream_url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgeYim6sqUfvVxIZJutW_jEyCrjJ7QMA5UkjrSFj9cQ"
     },
     {
       "title": "Befrin TV",
