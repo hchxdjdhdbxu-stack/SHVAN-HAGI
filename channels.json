@@ -304,15 +304,15 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
-      "title": "Ava spo",
-      "name": "Ava spo",
-      "stream_url": "http://212.102.60.80/Infosport/index.m3u8",
-      "url": "http://212.102.60.80/Infosport/index.m3u8",
+      "title": "AVA SPORT",
+      "name": "AVA SPORT",
+      "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
+      "url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "SPORTS",
-      "logo": ""
+      "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "title": "THAMANIYA 1",
