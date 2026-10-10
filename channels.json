@@ -106,6 +106,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRFTxbsdK-yxybiDcOorY1m-PV-UXTBocvUFBIsAb0A"
     },
     {
+      "title": "Befrin TV",
+      "name": "Befrin TV",
+      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
+    },
+    {
       "title": "Ava spo",
       "name": "Ava spo",
       "stream_url": "http://212.102.60.80/Infosport/index.m3u8",
