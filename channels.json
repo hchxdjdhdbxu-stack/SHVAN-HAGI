@@ -346,6 +346,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
+    },
+    {
+      "title": "Rudaw radio",
+      "name": "Rudaw radio",
+      "stream_url": "https://radio.rudaw.net/stream/live",
+      "url": "https://radio.rudaw.net/stream/live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUery-xU7GD6Sn8mCoBwzKTRuBVMZLpTNGsrhInldiRA&s=10"
     }
   ]
 }
