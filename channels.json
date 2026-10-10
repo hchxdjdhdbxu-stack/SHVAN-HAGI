@@ -139,6 +139,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
     },
     {
+      "title": "NUCHA TV",
+      "name": "NUCHA TV",
+      "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
+      "url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -159,17 +170,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
-    },
-    {
-      "title": "NUCHA TV",
-      "name": "NUCHA TV",
-      "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
-      "url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "GK PLUS",
