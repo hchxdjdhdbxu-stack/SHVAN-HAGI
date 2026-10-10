@@ -7,27 +7,16 @@
   },
   "channels": [
     {
-      "name": "Kurd",
-      "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8"
-    },
-    {
       "name": "RUDAW",
       "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8"
     },
     {
       "name": "Kurd",
-      "url": "http://212.102.60.80/Infosport/index.m3u8"
+      "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8"
     },
     {
-      "title": "Testt",
-      "name": "Testt",
-      "stream_url": "https://stm.linkip.org/live/3460_.m3u8",
-      "url": "https://stm.linkip.org/live/3460_.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "GENERAL",
-      "logo": ""
+      "name": "Kurd",
+      "url": "http://212.102.60.80/Infosport/index.m3u8"
     }
   ]
 }
