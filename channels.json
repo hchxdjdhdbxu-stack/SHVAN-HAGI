@@ -95,6 +95,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10"
     },
     {
+      "title": "GALI KURDISTAN",
+      "name": "GALI KURDISTAN",
+      "stream_url": "https://live.host247.net/gk/gksat/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gksat/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGc5IowKupTmMSfsRifs01h6Fds98jU3B9sT1dsi81bg"
+    },
+    {
       "title": "KURDMAX",
       "name": "KURDMAX",
       "stream_url": "https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8",
@@ -115,17 +126,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
-    },
-    {
-      "title": "GALI KURDISTAN",
-      "name": "GALI KURDISTAN",
-      "stream_url": "https://live.host247.net/gk/gksat/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gksat/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGc5IowKupTmMSfsRifs01h6Fds98jU3B9sT1dsi81bg"
     },
     {
       "title": "Befrin TV",
