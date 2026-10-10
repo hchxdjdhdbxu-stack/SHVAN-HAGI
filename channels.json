@@ -18,6 +18,17 @@
       "logo": ""
     },
     {
+      "title": "KURDISTAN TV",
+      "name": "KURDISTAN TV",
+      "stream_url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+      "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xlOCtDTfHYWSfEF1SI0ZPIfICZc3qvm1AfNx4T7bdA&s=10"
+    },
+    {
       "title": "RUDAW",
       "name": "RUDAW",
       "stream_url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
@@ -38,17 +49,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCy1ZBbeGGIdIBO8prfOMY7VxgcKENEol1QAut2aURA"
-    },
-    {
-      "title": "KURDISTAN TV",
-      "name": "KURDISTAN TV",
-      "stream_url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-      "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xlOCtDTfHYWSfEF1SI0ZPIfICZc3qvm1AfNx4T7bdA&s=10"
     },
     {
       "title": "CHANNEL 8",
