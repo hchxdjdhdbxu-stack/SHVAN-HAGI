@@ -73,17 +73,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxzGjDGnlp9_ZeOf329Lxt-UPrRsN94U0e95V3g705Q&s=10"
     },
     {
-      "title": "CHANNEL 8",
-      "name": "CHANNEL 8",
-      "stream_url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10"
-    },
-    {
       "title": "NRT ",
       "name": "NRT ",
       "stream_url": "http://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD.m3u8",
@@ -93,6 +82,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "CHANNEL 8",
+      "name": "CHANNEL 8",
+      "stream_url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10"
     },
     {
       "title": "KURDMAX",
