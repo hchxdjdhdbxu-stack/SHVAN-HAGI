@@ -18,6 +18,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafseokktOfnO_SgzFbwz2IsY2P_ujnKv--cKSOVLT_Q"
     },
     {
+      "title": "K24",
+      "name": "K24",
+      "stream_url": "http://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+      "url": "http://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCy1ZBbeGGIdIBO8prfOMY7VxgcKENEol1QAut2aURA"
+    },
+    {
       "title": "Ava spo",
       "name": "Ava spo",
       "stream_url": "http://212.102.60.80/Infosport/index.m3u8",
