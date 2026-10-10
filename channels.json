@@ -130,6 +130,17 @@
     {
       "title": "KURDSAT",
       "name": "KURDSAT",
+      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
+    },
+    {
+      "title": "KURDSAT",
+      "name": "KURDSAT",
       "stream_url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
       "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
       "referer": "",
@@ -148,17 +159,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
-    },
-    {
-      "title": "KURDSAT",
-      "name": "KURDSAT",
-      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
       "title": "Welat tv",
