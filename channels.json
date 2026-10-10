@@ -1,8 +1,8 @@
 {
   "settings": {
-    "activation": true,
-    "update": true,
-    "vpn": true,
+    "activation": false,
+    "update": false,
+    "vpn": false,
     "update_url": "https://content.avito.ma/classifieds/images/10149779269?t=images"
   },
   "channels": [
