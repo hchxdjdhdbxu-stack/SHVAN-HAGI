@@ -269,6 +269,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": ""
+    },
+    {
+      "title": "K24 radio",
+      "name": "K24 radio",
+      "stream_url": "https://audio-edge-5bkfj.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+      "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": ""
     }
   ]
 }
