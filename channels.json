@@ -271,6 +271,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
     },
     {
+      "title": "Quran",
+      "name": "Quran",
+      "stream_url": "http://m.live.net.sa:1935/live/quran/quran.m3u8",
+      "url": "http://m.live.net.sa:1935/live/quran/quran.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "STARZ PLAY 3",
       "name": "STARZ PLAY 3",
       "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
