@@ -513,6 +513,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
     },
     {
+      "title": "RENG TV",
+      "name": "RENG TV",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Barin documentary",
       "name": "Barin documentary",
       "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
@@ -528,17 +539,6 @@
       "name": "Barin family",
       "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
       "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "RENG TV",
-      "name": "RENG TV",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
