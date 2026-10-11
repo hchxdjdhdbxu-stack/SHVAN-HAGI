@@ -1107,17 +1107,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
-      "title": "DUHOK RADIO ",
-      "name": "DUHOK RADIO ",
-      "stream_url": "https://radio.garden/api/ara/content/listen/blqTOwxX/channel.mp3?hl=ar&1791636824037",
-      "url": "https://radio.garden/api/ara/content/listen/blqTOwxX/channel.mp3?hl=ar&1791636824037",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
-    },
-    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
@@ -1138,6 +1127,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlF69DjWH83IwDCJh-uSd4RiF9JoIERw-kZ5cmgMe0A&s=10"
+    },
+    {
+      "title": "DUHOK RADIO ",
+      "name": "DUHOK RADIO ",
+      "stream_url": "https://radio.garden/api/ara/content/listen/blqTOwxX/channel.mp3?hl=ar&1791636824037",
+      "url": "https://radio.garden/api/ara/content/listen/blqTOwxX/channel.mp3?hl=ar&1791636824037",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
     },
     {
       "title": "DUHOK RADIO ",
