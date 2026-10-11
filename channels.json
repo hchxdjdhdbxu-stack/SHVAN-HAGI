@@ -667,6 +667,17 @@
       "logo": ""
     },
     {
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NEWLINE Bollywood ",
       "name": "NEWLINE Bollywood ",
       "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
@@ -742,17 +753,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
