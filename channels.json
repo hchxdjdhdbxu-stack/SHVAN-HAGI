@@ -546,6 +546,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
+      "title": "NRT2",
+      "name": "NRT2",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Befrin TV",
       "name": "Befrin TV",
       "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
@@ -561,17 +572,6 @@
       "name": "Barin documentary",
       "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
       "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "NRT2",
-      "name": "NRT2",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
