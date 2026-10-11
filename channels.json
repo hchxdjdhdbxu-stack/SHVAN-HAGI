@@ -282,6 +282,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "ATV",
+      "name": "ATV",
+      "stream_url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
+      "url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN DRAMA",
       "name": "MMN DRAMA",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w2947989.m3u8",
@@ -302,17 +313,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "ATV",
-      "name": "ATV",
-      "stream_url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
-      "url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "RED TV",
