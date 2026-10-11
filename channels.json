@@ -249,17 +249,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
-      "title": "GK PLUS",
-      "name": "GK PLUS",
-      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
-    },
-    {
       "title": "BINAR TV",
       "name": "BINAR TV",
       "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
@@ -269,6 +258,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "GK PLUS",
+      "name": "GK PLUS",
+      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
       "title": "Befrin TV",
