@@ -260,6 +260,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
+      "title": "BINAR TV",
+      "name": "BINAR TV",
+      "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
+      "url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Befrin TV",
       "name": "Befrin TV",
       "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
@@ -313,17 +324,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "BINAR TV",
-      "name": "BINAR TV",
-      "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
-      "url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN DRAMA",
