@@ -601,17 +601,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlF69DjWH83IwDCJh-uSd4RiF9JoIERw-kZ5cmgMe0A&s=10"
     },
     {
-      "title": "Waar radio ",
-      "name": "Waar radio ",
-      "stream_url": "https://c4.radioboss.fm:8633/stream",
-      "url": "https://c4.radioboss.fm:8633/stream",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eUlLGQaWzITbxgr-YKTtrj3Z5n_OXTjpBUsb6AWlHw&s=10"
-    },
-    {
       "title": "DUHOK RADIO ",
       "name": "DUHOK RADIO ",
       "stream_url": "https://radio.garden/api/ara/content/listen/blqTOwxX/channel.mp3?hl=ar&1791636824037",
@@ -621,6 +610,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
+    },
+    {
+      "title": "Waar radio ",
+      "name": "Waar radio ",
+      "stream_url": "https://c4.radioboss.fm:8633/stream",
+      "url": "https://c4.radioboss.fm:8633/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eUlLGQaWzITbxgr-YKTtrj3Z5n_OXTjpBUsb6AWlHw&s=10"
     }
   ]
 }
