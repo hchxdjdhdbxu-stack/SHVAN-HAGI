@@ -931,6 +931,17 @@
       "logo": ""
     },
     {
+      "title": "BNAR Movies",
+      "name": "BNAR Movies",
+      "stream_url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "AVA SPORT",
       "name": "AVA SPORT",
       "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
