@@ -557,17 +557,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
-      "title": "GK PLUS",
-      "name": "GK PLUS",
-      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
-    },
-    {
       "title": "NEXT",
       "name": "NEXT",
       "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
@@ -577,6 +566,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "GK PLUS",
+      "name": "GK PLUS",
+      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
       "title": "MMN ACTION",
@@ -654,6 +654,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
+    },
+    {
+      "title": "Dasnya music",
+      "name": "Dasnya music",
+      "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
+      "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
     },
     {
       "title": "AVA SPORT",
