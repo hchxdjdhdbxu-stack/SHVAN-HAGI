@@ -689,6 +689,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "NEWLINE drama",
+      "name": "NEWLINE drama",
+      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
+      "url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -720,17 +731,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "NEWLINE drama",
-      "name": "NEWLINE drama",
-      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
-      "url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
