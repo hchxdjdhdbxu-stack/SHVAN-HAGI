@@ -568,6 +568,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
+      "title": "NEXT",
+      "name": "NEXT",
+      "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
+      "url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN ACTION",
       "name": "MMN ACTION",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8",
@@ -621,17 +632,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
-      "title": "NEXT",
-      "name": "NEXT",
-      "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
-      "url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
