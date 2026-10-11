@@ -557,6 +557,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "Barin documentary",
+      "name": "Barin documentary",
+      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NEXT",
       "name": "NEXT",
       "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
@@ -594,17 +605,6 @@
       "name": "Dasnya music",
       "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
       "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "Barin documentary",
-      "name": "Barin documentary",
-      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
