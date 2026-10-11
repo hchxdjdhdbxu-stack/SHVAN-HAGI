@@ -304,6 +304,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
+      "title": "Kurdmax show",
+      "name": "Kurdmax show",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212804.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212804.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "AVAR TV",
       "name": "AVAR TV",
       "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
@@ -324,17 +335,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
-    },
-    {
-      "title": "Kurdmax show",
-      "name": "Kurdmax show",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212804.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212804.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "STARZ PLAY 3",
