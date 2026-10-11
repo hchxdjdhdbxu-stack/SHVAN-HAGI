@@ -403,6 +403,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
+      "title": "Bangawaz tv",
+      "name": "Bangawaz tv",
+      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "RANYA CITY",
       "name": "RANYA CITY",
       "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
@@ -489,17 +500,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "Bangawaz tv",
-      "name": "Bangawaz tv",
-      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
