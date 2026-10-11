@@ -425,6 +425,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
+      "title": "Bask",
+      "name": "Bask",
+      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "TRT kurdi",
       "name": "TRT kurdi",
       "stream_url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
@@ -440,17 +451,6 @@
       "name": "TRT turki",
       "stream_url": "http://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
       "url": "http://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "Bask",
-      "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
