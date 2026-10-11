@@ -953,6 +953,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "Duhok",
+      "name": "Duhok",
+      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
+      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN Documentary",
       "name": "MMN Documentary",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
@@ -1006,17 +1017,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
-    },
-    {
-      "title": "Duhok",
-      "name": "Duhok",
-      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
-      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "IRAQIA KURDÎ",
