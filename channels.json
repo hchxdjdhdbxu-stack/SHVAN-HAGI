@@ -1008,6 +1008,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
     },
     {
+      "title": "Duhok",
+      "name": "Duhok",
+      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
+      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -1028,17 +1039,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "Duhok",
-      "name": "Duhok",
-      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
-      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/115904.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
