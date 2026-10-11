@@ -469,6 +469,17 @@
       "logo": ""
     },
     {
+      "title": "Dalal tv",
+      "name": "Dalal tv",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Befrin TV",
       "name": "Befrin TV",
       "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
@@ -511,17 +522,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "Dalal tv",
-      "name": "Dalal tv",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "GK PLUS",
