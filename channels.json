@@ -854,17 +854,6 @@
       "logo": ""
     },
     {
-      "title": "GK PLUS",
-      "name": "GK PLUS",
-      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
-    },
-    {
       "title": "Mix kurd ",
       "name": "Mix kurd ",
       "stream_url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
@@ -874,6 +863,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "GK PLUS",
+      "name": "GK PLUS",
+      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
       "title": "MMN ACTION",
