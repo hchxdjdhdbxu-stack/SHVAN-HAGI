@@ -568,17 +568,6 @@
       "logo": ""
     },
     {
-      "title": "RENG TV",
-      "name": "RENG TV",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
       "title": "RED TV",
       "name": "RED TV",
       "stream_url": "http://avrstream.com:1935/live/REDTV/playlist.m3u8",
@@ -588,6 +577,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnr6qGW5397v3C_MbGRcJzyxr8DoobwGJLJJi_jRcKkbaY67N-qO4U8Q"
+    },
+    {
+      "title": "RENG TV",
+      "name": "RENG TV",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
     },
     {
       "title": "AVAR TV",
