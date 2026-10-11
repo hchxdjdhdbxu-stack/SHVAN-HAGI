@@ -370,6 +370,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
     },
     {
+      "title": "PÊŞMERGE TV",
+      "name": "PÊŞMERGE TV",
+      "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "STARZ PLAY 3",
       "name": "STARZ PLAY 3",
       "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
