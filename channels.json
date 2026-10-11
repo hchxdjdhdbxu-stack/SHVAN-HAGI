@@ -623,6 +623,17 @@
       "logo": ""
     },
     {
+      "title": "NEWLINE MOVIES ",
+      "name": "NEWLINE MOVIES ",
+      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
+      "url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -643,17 +654,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "NEWLINE MOVIES ",
-      "name": "NEWLINE MOVIES ",
-      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
-      "url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
