@@ -194,6 +194,17 @@
       "logo": ""
     },
     {
+      "title": "Dasnya tv",
+      "name": "Dasnya tv",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805754.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805754.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Soran ",
       "name": "Soran ",
       "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
@@ -225,17 +236,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
-    },
-    {
-      "title": "Dasnya tv",
-      "name": "Dasnya tv",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805754.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805754.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "OREMAR TV",
