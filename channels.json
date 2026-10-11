@@ -658,8 +658,8 @@
     {
       "title": "Barin movies",
       "name": "Barin movies",
-      "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
+      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
