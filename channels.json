@@ -260,6 +260,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "Kurdmax show sorani",
+      "name": "Kurdmax show sorani",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/111636.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/111636.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN DRAMA",
       "name": "MMN DRAMA",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w2947989.m3u8",
@@ -302,17 +313,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cZX96ka3Fip18sG0YYzzPI7BPnIXYwXvaA"
-    },
-    {
-      "title": "Kurdmax show sorani",
-      "name": "Kurdmax show sorani",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/111636.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/111636.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "IRAQIA KURDÎ",
