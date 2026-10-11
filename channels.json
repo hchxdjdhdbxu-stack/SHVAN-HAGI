@@ -260,17 +260,6 @@
       "logo": ""
     },
     {
-      "title": "Soran ",
-      "name": "Soran ",
-      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
-    },
-    {
       "title": "Euro kurd",
       "name": "Euro kurd",
       "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -280,6 +269,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "Soran ",
+      "name": "Soran ",
+      "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
       "title": "GK PLUS",
@@ -423,6 +423,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
+    },
+    {
+      "title": "Kurd chanel",
+      "name": "Kurd chanel",
+      "stream_url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
     },
     {
       "title": "STARZ PLAY 3",
