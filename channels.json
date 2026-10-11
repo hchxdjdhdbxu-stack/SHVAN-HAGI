@@ -337,10 +337,10 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cZX96ka3Fip18sG0YYzzPI7BPnIXYwXvaA"
     },
     {
-      "title": "KANI",
-      "name": "KANI",
-      "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/300380.ts",
-      "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/300380.ts",
+      "title": "Bangawaz tv",
+      "name": "Bangawaz tv",
+      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -348,10 +348,10 @@
       "logo": ""
     },
     {
-      "title": "Bangawaz tv",
-      "name": "Bangawaz tv",
-      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "title": "KANI",
+      "name": "KANI",
+      "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/300380.ts",
+      "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/300380.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
