@@ -436,17 +436,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
     },
     {
-      "title": "STARZ PLAY 3",
-      "name": "STARZ PLAY 3",
-      "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
-      "url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "category": "SPORTS",
-      "logo": ""
-    },
-    {
       "title": "AVA SPORT",
       "name": "AVA SPORT",
       "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
@@ -456,6 +445,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "title": "STARZ PLAY 3",
+      "name": "STARZ PLAY 3",
+      "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+      "url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "category": "SPORTS",
+      "logo": ""
     },
     {
       "title": "STARZ PLAY 1",
