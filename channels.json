@@ -777,10 +777,10 @@
       "logo": ""
     },
     {
-      "title": "Kurd movies ",
-      "name": "Kurd movies ",
-      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802128&extension=m3u8",
-      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802128&extension=m3u8",
+      "title": "Kurd cinema ",
+      "name": "Kurd cinema ",
+      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
+      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -788,10 +788,10 @@
       "logo": ""
     },
     {
-      "title": "Kurd cinema ",
-      "name": "Kurd cinema ",
-      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
-      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
+      "title": "Kurd movies ",
+      "name": "Kurd movies ",
+      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802128&extension=m3u8",
+      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802128&extension=m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
