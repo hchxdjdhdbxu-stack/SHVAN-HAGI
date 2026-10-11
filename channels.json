@@ -348,6 +348,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
     },
     {
+      "title": "RAVAND HD",
+      "name": "RAVAND HD",
+      "stream_url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
+      "url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -478,17 +489,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "RAVAND HD",
-      "name": "RAVAND HD",
-      "stream_url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
-      "url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
