@@ -557,6 +557,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
+      "title": "Zaxo tv",
+      "name": "Zaxo tv",
+      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
+      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "AVAR TV",
       "name": "AVAR TV",
       "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
@@ -588,17 +599,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "Zaxo tv",
-      "name": "Zaxo tv",
-      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
-      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
