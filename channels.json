@@ -634,6 +634,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "NRT2",
+      "name": "NRT2",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -665,17 +676,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "NRT2",
-      "name": "NRT2",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
