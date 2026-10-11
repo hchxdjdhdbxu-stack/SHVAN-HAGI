@@ -601,6 +601,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "ZAVAR tv",
+      "name": "ZAVAR tv",
+      "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
+      "url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NEXT",
       "name": "NEXT",
       "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
@@ -616,17 +627,6 @@
       "name": "NRT2",
       "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
       "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "ZAVAR tv",
-      "name": "ZAVAR tv",
-      "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
-      "url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
