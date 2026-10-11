@@ -975,6 +975,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "MMN Documentary",
+      "name": "MMN Documentary",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -995,17 +1006,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "MMN Documentary",
-      "name": "MMN Documentary",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN CLIP",
