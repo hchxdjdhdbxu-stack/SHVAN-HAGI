@@ -260,6 +260,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
+      "title": "PÊŞMERGE TV",
+      "name": "PÊŞMERGE TV",
+      "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "RANYA CITY",
       "name": "RANYA CITY",
       "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
@@ -302,17 +313,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "PÊŞMERGE TV",
-      "name": "PÊŞMERGE TV",
-      "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
-      "url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN MOVIES",
