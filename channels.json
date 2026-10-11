@@ -381,6 +381,17 @@
       "logo": ""
     },
     {
+      "title": "SPEDA drama",
+      "name": "SPEDA drama",
+      "stream_url": "http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live",
+      "url": "http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Soran ",
       "name": "Soran ",
       "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
@@ -403,15 +414,15 @@
       "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
-      "title": "SPEDA drama",
-      "name": "SPEDA drama",
-      "stream_url": "http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live",
-      "url": "http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live",
+      "title": "RANYA CITY",
+      "name": "RANYA CITY",
+      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": ""
+      "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
     },
     {
       "title": "Befrin TV",
@@ -434,17 +445,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
-    },
-    {
-      "title": "RANYA CITY",
-      "name": "RANYA CITY",
-      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
     },
     {
       "title": "MMN ACTION",
