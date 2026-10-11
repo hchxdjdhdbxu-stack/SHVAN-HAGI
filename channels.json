@@ -689,6 +689,28 @@
       "logo": ""
     },
     {
+      "title": "NEWLINE drama",
+      "name": "NEWLINE drama",
+      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
+      "url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
+      "title": "NEWLINE Bollywood ",
+      "name": "NEWLINE Bollywood ",
+      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
+      "url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "ZAVAR tv",
       "name": "ZAVAR tv",
       "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
@@ -726,28 +748,6 @@
       "name": "Astera movice",
       "stream_url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
       "url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "NEWLINE drama",
-      "name": "NEWLINE drama",
-      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
-      "url": "http://188.72.5.30:8080/live/alsard/555666/10448.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "NEWLINE Bollywood ",
-      "name": "NEWLINE Bollywood ",
-      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
-      "url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
