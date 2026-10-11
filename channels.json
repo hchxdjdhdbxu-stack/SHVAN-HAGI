@@ -427,8 +427,8 @@
     {
       "title": "Bask",
       "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "stream_url": "https://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url": "https://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
