@@ -480,6 +480,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "TRT kurdi",
+      "name": "TRT kurdi",
+      "stream_url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+      "url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN MOVIES",
       "name": "MMN MOVIES",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
@@ -522,17 +533,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "TRT kurdi",
-      "name": "TRT kurdi",
-      "stream_url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-      "url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
