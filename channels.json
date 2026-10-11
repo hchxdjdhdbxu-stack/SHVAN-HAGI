@@ -845,8 +845,8 @@
     {
       "title": "BNAR ACTION TV",
       "name": "BNAR ACTION TV",
-      "stream_url": "http://cdn.karwan.tv/bnar-action/index.m3u8",
-      "url": "http://cdn.karwan.tv/bnar-action/index.m3u8",
+      "stream_url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
+      "url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
