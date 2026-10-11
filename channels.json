@@ -348,6 +348,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cZX96ka3Fip18sG0YYzzPI7BPnIXYwXvaA"
     },
     {
+      "title": "DEVER TV",
+      "name": "DEVER TV",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/771668.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/771668.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -379,17 +390,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
-    },
-    {
-      "title": "DEVER TV",
-      "name": "DEVER TV",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/771668.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/771668.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "STARZ PLAY 3",
