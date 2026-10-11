@@ -524,6 +524,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
+      "title": "Duhok sport",
+      "name": "Duhok sport",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212838.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212838.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17872692.png?v=3"
+    },
+    {
       "title": "STARZ PLAY 3",
       "name": "STARZ PLAY 3",
       "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
@@ -557,15 +568,15 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
-      "title": "Duhok sport",
-      "name": "Duhok sport",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212838.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212838.ts",
+      "title": "Rudaw radio",
+      "name": "Rudaw radio",
+      "stream_url": "https://radio.rudaw.net/stream/live",
+      "url": "https://radio.rudaw.net/stream/live",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17872692.png?v=3"
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUery-xU7GD6Sn8mCoBwzKTRuBVMZLpTNGsrhInldiRA&s=10"
     },
     {
       "title": "K24 radio",
@@ -577,17 +588,6 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlF69DjWH83IwDCJh-uSd4RiF9JoIERw-kZ5cmgMe0A&s=10"
-    },
-    {
-      "title": "Rudaw radio",
-      "name": "Rudaw radio",
-      "stream_url": "https://radio.rudaw.net/stream/live",
-      "url": "https://radio.rudaw.net/stream/live",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUery-xU7GD6Sn8mCoBwzKTRuBVMZLpTNGsrhInldiRA&s=10"
     },
     {
       "title": "Waar radio ",
