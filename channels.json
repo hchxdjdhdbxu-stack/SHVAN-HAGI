@@ -535,6 +535,17 @@
       "logo": ""
     },
     {
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -550,17 +561,6 @@
       "name": "RENG TV",
       "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
       "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
