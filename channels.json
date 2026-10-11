@@ -579,6 +579,17 @@
       "logo": ""
     },
     {
+      "title": "Dasnya music",
+      "name": "Dasnya music",
+      "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
+      "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -605,17 +616,6 @@
       "name": "NIGA TV",
       "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/119551.m3u8",
       "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/119551.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "Dasnya music",
-      "name": "Dasnya music",
-      "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
-      "url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
