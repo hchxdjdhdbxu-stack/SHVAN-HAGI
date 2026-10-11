@@ -645,6 +645,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
+      "title": "NEWLINE MOVIES ",
+      "name": "NEWLINE MOVIES ",
+      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
+      "url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Infinity tv",
       "name": "Infinity tv",
       "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
@@ -676,17 +687,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "NEWLINE MOVIES ",
-      "name": "NEWLINE MOVIES ",
-      "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
-      "url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "NEWLINE drama",
