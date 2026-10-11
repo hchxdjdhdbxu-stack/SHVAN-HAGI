@@ -370,6 +370,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
+      "title": "Bangawaz tv",
+      "name": "Bangawaz tv",
+      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -401,17 +412,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
-    },
-    {
-      "title": "Bangawaz tv",
-      "name": "Bangawaz tv",
-      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "RANYA CITY",
