@@ -678,6 +678,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
     },
     {
+      "title": "NRT4",
+      "name": "NRT4",
+      "stream_url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
+      "url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "AVA SPORT",
       "name": "AVA SPORT",
       "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
