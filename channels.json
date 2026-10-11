@@ -469,6 +469,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "Utv duhok",
+      "name": "Utv duhok",
+      "stream_url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
+      "url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MBC Action",
       "name": "MBC Action",
       "stream_url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
@@ -489,17 +500,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "Utv duhok",
-      "name": "Utv duhok",
-      "stream_url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
-      "url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
