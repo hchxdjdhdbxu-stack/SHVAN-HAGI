@@ -909,6 +909,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "MMN CLIP",
+      "name": "MMN CLIP",
+      "stream_url": "http://cf.k8k-it.com:8080/jivara/07722243040/392692",
+      "url": "http://cf.k8k-it.com:8080/jivara/07722243040/392692",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -929,17 +940,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "MMN CLIP",
-      "name": "MMN CLIP",
-      "stream_url": "http://cf.k8k-it.com:8080/jivara/07722243040/392692",
-      "url": "http://cf.k8k-it.com:8080/jivara/07722243040/392692",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
@@ -1008,17 +1008,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
-      "title": "KURDMAX SHOW ",
-      "name": "KURDMAX SHOW ",
-      "stream_url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
-      "url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
-      "referer": "https://webapp.onetv.app/",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
       "title": "MMN MOVIES ",
       "name": "MMN MOVIES ",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8",
@@ -1028,6 +1017,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "KURDMAX SHOW ",
+      "name": "KURDMAX SHOW ",
+      "stream_url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
+      "url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
+      "referer": "https://webapp.onetv.app/",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
     },
     {
       "title": "AVA SPORT",
