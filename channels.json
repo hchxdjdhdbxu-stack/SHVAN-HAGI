@@ -502,6 +502,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
+      "title": "Xabir tv",
+      "name": "Xabir tv",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "RED TV",
       "name": "RED TV",
       "stream_url": "http://avrstream.com:1935/live/REDTV/playlist.m3u8",
@@ -544,17 +555,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "Xabir tv",
-      "name": "Xabir tv",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
