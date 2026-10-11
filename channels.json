@@ -557,6 +557,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
+      "title": "RENG TV",
+      "name": "RENG TV",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN ACTION",
       "name": "MMN ACTION",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8",
@@ -599,17 +610,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "RENG TV",
-      "name": "RENG TV",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805990.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "IRAQIA KURDÎ",
