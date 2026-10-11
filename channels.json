@@ -865,6 +865,17 @@
       "logo": ""
     },
     {
+      "title": "Kurd cinema ",
+      "name": "Kurd cinema ",
+      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
+      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802127&extension=m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "AVA SPORT",
       "name": "AVA SPORT",
       "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
