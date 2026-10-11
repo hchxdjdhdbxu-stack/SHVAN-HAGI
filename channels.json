@@ -744,6 +744,17 @@
       "logo": ""
     },
     {
+      "title": "Astera movice",
+      "name": "Astera movice",
+      "stream_url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
+      "url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -808,17 +819,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
-      "title": "Astera movice",
-      "name": "Astera movice",
-      "stream_url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
-      "url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
