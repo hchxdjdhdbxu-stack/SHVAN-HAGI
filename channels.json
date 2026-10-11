@@ -568,6 +568,17 @@
       "logo": ""
     },
     {
+      "title": "NRT2",
+      "name": "NRT2",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Barin family",
       "name": "Barin family",
       "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
@@ -583,17 +594,6 @@
       "name": "Barin movies",
       "stream_url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
       "url": "http://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "NRT2",
-      "name": "NRT2",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
