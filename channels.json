@@ -843,6 +843,17 @@
       "logo": ""
     },
     {
+      "title": "BNAR Movies",
+      "name": "BNAR Movies",
+      "stream_url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -863,17 +874,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "BNAR Movies",
-      "name": "BNAR Movies",
-      "stream_url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
-      "url": "http://cdn.karwan.tv/bnar-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
