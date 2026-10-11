@@ -207,13 +207,13 @@
     {
       "title": "ATV",
       "name": "ATV",
-      "stream_url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
-      "url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
+      "stream_url": "https://encrypted-vtbn1.gstatic.com/video?q=tbn:ANd9GcR4qKCUU2FJ2MAzvqqd3VRVR9LIO54VO8D6Zz9NWBYQ2gTlNq7m",
+      "url": "https://encrypted-vtbn1.gstatic.com/video?q=tbn:ANd9GcR4qKCUU2FJ2MAzvqqd3VRVR9LIO54VO8D6Zz9NWBYQ2gTlNq7m",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": ""
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tGJTeYzFxNyIpqKvLuFF_xEMW6p2gUpLINVQDdg4DA&s=10"
     },
     {
       "title": "PÊŞMERGE TV",
