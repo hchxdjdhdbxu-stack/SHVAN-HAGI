@@ -590,6 +590,17 @@
       "logo": ""
     },
     {
+      "title": "NRT2",
+      "name": "NRT2",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -605,17 +616,6 @@
       "name": "Infinity tv",
       "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
       "url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
-      "title": "NRT2",
-      "name": "NRT2",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805983.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
