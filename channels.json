@@ -1,6 +1,6 @@
 {
   "settings": {
-    "activation": true,
+    "activation": false,
     "update": false,
     "vpn": true,
     "update_url": "https://content.avito.ma/classifieds/images/10149779269?t=images"
@@ -436,6 +436,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "MBC Action",
+      "name": "MBC Action",
+      "stream_url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
+    },
+    {
       "title": "KURDMAX SHOW ",
       "name": "KURDMAX SHOW ",
       "stream_url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
@@ -447,26 +458,15 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
     },
     {
-      "title": "KURDMAX SD",
-      "name": "KURDMAX SD",
-      "stream_url": "https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8?token=onetv202",
-      "url": "https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8?token=onetv202",
-      "referer": "https://webapp.onetv.app/",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
-    },
-    {
-      "title": "MBC Action",
-      "name": "MBC Action",
-      "stream_url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
-      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
+      "title": "Bangxwazen badinan",
+      "name": "Bangxwazen badinan",
+      "stream_url": "https://app-live.org/live/3268334b/index.m3u8",
+      "url": "https://app-live.org/live/3268334b/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvC4F3tIEX7Ocx-__Mdt3vwRaBHqaaXkNfg"
+      "category": "KURD TV",
+      "logo": ""
     },
     {
       "title": "AVA SPORT",
