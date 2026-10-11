@@ -623,10 +623,10 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "title": "Barin documentary",
+      "name": "Barin documentary",
+      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -634,10 +634,10 @@
       "logo": ""
     },
     {
-      "title": "Barin documentary",
-      "name": "Barin documentary",
-      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
