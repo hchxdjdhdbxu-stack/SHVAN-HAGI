@@ -887,6 +887,17 @@
       "logo": ""
     },
     {
+      "title": "MMN DRAMA",
+      "name": "MMN DRAMA",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -907,17 +918,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "MMN DRAMA",
-      "name": "MMN DRAMA",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
