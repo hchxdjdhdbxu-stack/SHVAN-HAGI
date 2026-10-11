@@ -513,6 +513,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "Dalal tv",
+      "name": "Dalal tv",
+      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -566,17 +577,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "Dalal tv",
-      "name": "Dalal tv",
-      "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/805755.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "IRAQIA KURDÎ",
