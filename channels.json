@@ -403,6 +403,17 @@
       "logo": ""
     },
     {
+      "title": "Bask",
+      "name": "Bask",
+      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "RANYA CITY",
       "name": "RANYA CITY",
       "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
@@ -423,17 +434,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
-    },
-    {
-      "title": "Bask",
-      "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "TRT kurdi",
