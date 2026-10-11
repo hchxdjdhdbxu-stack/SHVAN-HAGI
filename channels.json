@@ -447,6 +447,17 @@
       "logo": ""
     },
     {
+      "title": "AVA SPORT",
+      "name": "AVA SPORT",
+      "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
+      "url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "title": "STARZ PLAY 1",
       "name": "STARZ PLAY 1",
       "stream_url": "http://go8knm.optikl.ink/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd?|drmScheme=clearkey&drmLicense=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
@@ -467,17 +478,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
-    },
-    {
-      "title": "AVA SPORT",
-      "name": "AVA SPORT",
-      "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
-      "url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "title": "THAMANIYA 1",
