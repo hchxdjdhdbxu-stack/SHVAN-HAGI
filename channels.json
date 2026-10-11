@@ -491,6 +491,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "Bask",
+      "name": "Bask",
+      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN Documentary",
       "name": "MMN Documentary",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
@@ -555,17 +566,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "Bask",
-      "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
