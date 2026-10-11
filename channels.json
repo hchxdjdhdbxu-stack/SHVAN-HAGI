@@ -524,17 +524,6 @@
       "logo": ""
     },
     {
-      "title": "OREMAR TV",
-      "name": "OREMAR TV",
-      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
-    },
-    {
       "title": "Barin family",
       "name": "Barin family",
       "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
@@ -544,6 +533,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "OREMAR TV",
+      "name": "OREMAR TV",
+      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
       "title": "RENG TV",
