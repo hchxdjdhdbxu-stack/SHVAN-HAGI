@@ -557,6 +557,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
+      "title": "Bask",
+      "name": "Bask",
+      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MBC Action",
       "name": "MBC Action",
       "stream_url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd?|drmScheme=clearkey&drmLicense=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54",
@@ -577,17 +588,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "Bask",
-      "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "AVA SPORT",
