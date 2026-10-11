@@ -227,6 +227,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg"
     },
     {
+      "title": "ATV",
+      "name": "ATV",
+      "stream_url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
+      "url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Befrin TV",
       "name": "Befrin TV",
       "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
@@ -247,17 +258,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
-    },
-    {
-      "title": "ATV",
-      "name": "ATV",
-      "stream_url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
-      "url": "http://forevertv.me:2095/live/p7Thu48bBFAWxQ/PNajZ5O8xvcY1r/496473.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "RANYA CITY",
