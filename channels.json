@@ -689,6 +689,17 @@
       "logo": ""
     },
     {
+      "title": "Infinity tv",
+      "name": "Infinity tv",
+      "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
+      "url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "GK PLUS",
       "name": "GK PLUS",
       "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
@@ -709,17 +720,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "Infinity tv",
-      "name": "Infinity tv",
-      "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
-      "url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
