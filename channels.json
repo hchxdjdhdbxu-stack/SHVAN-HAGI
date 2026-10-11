@@ -579,6 +579,17 @@
       "logo": ""
     },
     {
+      "title": "NRT4",
+      "name": "NRT4",
+      "stream_url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
+      "url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Dasnya music",
       "name": "Dasnya music",
       "stream_url": "http://16k.xyz:2082/live/AbuZajr/ccMJaFURS4Sb/246935.ts",
@@ -610,17 +621,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
-    },
-    {
-      "title": "NRT4",
-      "name": "NRT4",
-      "stream_url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
-      "url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MMN Documentary",
