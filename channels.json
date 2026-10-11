@@ -623,6 +623,17 @@
       "logo": ""
     },
     {
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NEWLINE 2",
       "name": "NEWLINE 2",
       "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/119550.m3u8",
@@ -731,17 +742,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
