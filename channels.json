@@ -876,6 +876,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlPch1ZNHyX0I8oG3IUBJLitHrGGEFOqOnA"
     },
     {
+      "title": "BNAR HD",
+      "name": "BNAR HD",
+      "stream_url": "http://cdn.karwan.tv/bnar-family/index.m3u8",
+      "url": "http://cdn.karwan.tv/bnar-family/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "IRAQIA KURDÎ",
       "name": "IRAQIA KURDÎ",
       "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
@@ -907,17 +918,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKYy905uaUnEj5SfgMngj5zvGs2tWSp1Lou_urygVEIJVikkEosrhvV3H&s=10"
-    },
-    {
-      "title": "BNAR HD",
-      "name": "BNAR HD",
-      "stream_url": "http://cdn.karwan.tv/bnar-family/index.m3u8",
-      "url": "http://cdn.karwan.tv/bnar-family/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "BNAR ACTION TV",
