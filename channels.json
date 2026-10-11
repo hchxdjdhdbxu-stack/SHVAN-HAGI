@@ -480,17 +480,6 @@
       "logo": ""
     },
     {
-      "title": "THAMANIYA 2",
-      "name": "THAMANIYA 2",
-      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216",
-      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
-    },
-    {
       "title": "THAMANIYA 1",
       "name": "THAMANIYA 1",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
@@ -498,6 +487,17 @@
       "referer": "",
       "drm_key": "",
       "user_agent": "com.nesr/1.3 (Linux;Android 16) AndroidXMedia3/1.1.1",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
+    },
+    {
+      "title": "THAMANIYA 2",
+      "name": "THAMANIYA 2",
+      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216",
+      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
