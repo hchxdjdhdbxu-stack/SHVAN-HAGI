@@ -359,6 +359,17 @@
       "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
     },
     {
+      "title": "Gewher HD",
+      "name": "Gewher HD",
+      "stream_url": "http://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8",
+      "url": "http://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "MMN ACTION",
       "name": "MMN ACTION",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8",
@@ -445,17 +456,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
-    },
-    {
-      "title": "Gewher HD",
-      "name": "Gewher HD",
-      "stream_url": "http://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8",
-      "url": "http://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "MBC Action",
