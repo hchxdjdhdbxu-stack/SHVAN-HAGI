@@ -205,17 +205,6 @@
       "logo": "https://cdn.phototourl.com/free/2026-09-17-0e7e2a0d-7885-4252-94c8-407c98354612.jpg"
     },
     {
-      "title": "RANYA CITY",
-      "name": "RANYA CITY",
-      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
-    },
-    {
       "title": "Kurdmax sorani",
       "name": "Kurdmax sorani",
       "stream_url": "http://uffxesky.cdnber.site/live/E7U548S/GYY5ZR4/54112.ts",
@@ -225,6 +214,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": ""
+    },
+    {
+      "title": "RANYA CITY",
+      "name": "RANYA CITY",
+      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg"
     },
     {
       "title": "MMN ACTION",
