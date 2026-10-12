@@ -1897,6 +1897,17 @@
       "user_agent": "",
       "category": "DOCUMENTARY",
       "logo": ""
+    },
+    {
+      "title": "FISHING TV",
+      "name": "FISHING TV",
+      "stream_url": "http://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8",
+      "url": "http://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
     }
   ]
 }
