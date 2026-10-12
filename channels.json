@@ -1831,6 +1831,17 @@
       "user_agent": "",
       "category": "DOCUMENTARY",
       "logo": ""
+    },
+    {
+      "title": "AD NATGEO",
+      "name": "AD NATGEO",
+      "stream_url": "http://premium2.ottpro2.org:8789/live/apurva12/7924688/219383.ts",
+      "url": "http://premium2.ottpro2.org:8789/live/apurva12/7924688/219383.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
     }
   ]
 }
