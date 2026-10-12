@@ -2161,6 +2161,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": ""
+    },
+    {
+      "title": "Mbc action",
+      "name": "Mbc action",
+      "stream_url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
+      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": ""
     }
   ]
 }
