@@ -1184,6 +1184,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
+      "title": "Gewher sport",
+      "name": "Gewher sport",
+      "stream_url": "http://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8",
+      "url": "http://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105714.png?v=1"
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
