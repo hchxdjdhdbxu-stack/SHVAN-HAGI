@@ -1096,17 +1096,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/4424.png?ts=1791792163849"
     },
     {
-      "title": "STARZ PLAY 1",
-      "name": "STARZ PLAY 1",
-      "stream_url": "http://go8knm.optikl.ink/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd?|drmScheme=clearkey&drmLicense=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
-      "url": "http://go8knm.optikl.ink/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd?|drmScheme=clearkey&drmLicense=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
-    },
-    {
       "title": "Iraqi sport",
       "name": "Iraqi sport",
       "stream_url": "http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/3924.ts",
@@ -1118,6 +1107,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhLLCxvLSUehPSNoPWBoORF1bzEVCCC9uYC7hE82n1A&s=10"
     },
     {
+      "title": "STARZ PLAY 1",
+      "name": "STARZ PLAY 1",
+      "stream_url": "http://go8knm.optikl.ink/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd?|drmScheme=clearkey&drmLicense=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "url": "http://go8knm.optikl.ink/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd?|drmScheme=clearkey&drmLicense=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
+    },
+    {
       "title": "STARZ PLAY 2",
       "name": "STARZ PLAY 2",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
@@ -1127,6 +1127,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
+    },
+    {
+      "title": "Iraqi sports syriac",
+      "name": "Iraqi sports syriac",
+      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
     },
     {
       "title": "STARZ PLAY 3",
@@ -1160,17 +1171,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
-    },
-    {
-      "title": "Iraqi sports syriac",
-      "name": "Iraqi sports syriac",
-      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8",
-      "url": "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": ""
     },
     {
       "title": "Rudaw radio",
