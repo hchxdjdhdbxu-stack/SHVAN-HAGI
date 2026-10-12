@@ -1041,17 +1041,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17872692.png?v=3"
     },
     {
-      "title": "LD SPORT ",
-      "name": "LD SPORT ",
-      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258495.ts",
-      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258495.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXBEY4l4uv4dYcVBQYDkv0spqkKHRpPfbJ-PCxXGH6A&s=10"
-    },
-    {
       "title": "Dasnya sport ",
       "name": "Dasnya sport ",
       "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212844.ts",
@@ -1061,6 +1050,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07CZUTYIqxj7ayUzKallV6wzyOZ6n_w8h7ALDWNMxEA&s=10"
+    },
+    {
+      "title": "LD SPORT ",
+      "name": "LD SPORT ",
+      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258495.ts",
+      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258495.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXBEY4l4uv4dYcVBQYDkv0spqkKHRpPfbJ-PCxXGH6A&s=10"
     },
     {
       "title": "AVA SPORT",
@@ -1107,6 +1107,17 @@
       "logo": ""
     },
     {
+      "title": "NRT-SPORT ",
+      "name": "NRT-SPORT ",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFd212V_-8TXY8Kz7FRiQmYezqcvlutF-zl11a5vyXw&s=10"
+    },
+    {
       "title": "THAMANIYA 1",
       "name": "THAMANIYA 1",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
@@ -1127,17 +1138,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
-    },
-    {
-      "title": "NRT-SPORT ",
-      "name": "NRT-SPORT ",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFd212V_-8TXY8Kz7FRiQmYezqcvlutF-zl11a5vyXw&s=10"
     },
     {
       "title": "Delal sport ",
