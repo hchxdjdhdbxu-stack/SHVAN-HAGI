@@ -1140,6 +1140,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
+      "title": "ZAXO SPORT ",
+      "name": "ZAXO SPORT ",
+      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258602.m3u8",
+      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258602.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "STARZ PLAY 3",
       "name": "STARZ PLAY 3",
       "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
@@ -1171,17 +1182,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
-    },
-    {
-      "title": "ZAXO SPORT ",
-      "name": "ZAXO SPORT ",
-      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258602.m3u8",
-      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258602.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": ""
     },
     {
       "title": "Rudaw radio",
