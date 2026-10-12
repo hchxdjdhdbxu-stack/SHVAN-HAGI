@@ -1789,6 +1789,17 @@
       "logo": ""
     },
     {
+      "title": "Teve2 turkey ",
+      "name": "Teve2 turkey ",
+      "stream_url": "http://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8",
+      "url": "http://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
+    },
+    {
       "title": "الجزيره وثايقيه",
       "name": "الجزيره وثايقيه",
       "stream_url": "http://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
