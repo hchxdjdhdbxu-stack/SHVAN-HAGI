@@ -1195,6 +1195,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
+      "title": "MMN SPORT ",
+      "name": "MMN SPORT ",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdsport/media_w700466617_32247.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdsport/media_w700466617_32247.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
