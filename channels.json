@@ -1600,6 +1600,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": ""
+    },
+    {
+      "title": "SHOW TV",
+      "name": "SHOW TV",
+      "stream_url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8",
+      "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
