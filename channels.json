@@ -1875,6 +1875,17 @@
       "user_agent": "",
       "category": "DOCUMENTARY",
       "logo": ""
+    },
+    {
+      "title": "Wild Earth",
+      "name": "Wild Earth",
+      "stream_url": "http://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+      "url": "http://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
     }
   ]
 }
