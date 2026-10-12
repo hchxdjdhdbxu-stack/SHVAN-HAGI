@@ -1996,6 +1996,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
+    },
+    {
+      "title": "SHAHID ACTION",
+      "name": "SHAHID ACTION",
+      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+      "url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": ""
     }
   ]
 }
