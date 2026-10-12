@@ -2040,6 +2040,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": ""
+    },
+    {
+      "title": "MBC 2",
+      "name": "MBC 2",
+      "stream_url": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+      "url": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": ""
     }
   ]
 }
