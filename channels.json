@@ -1754,6 +1754,17 @@
       "user_agent": "",
       "category": "TURKISH",
       "logo": ""
+    },
+    {
+      "title": "360 tv",
+      "name": "360 tv",
+      "stream_url": "http://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "url": "http://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
