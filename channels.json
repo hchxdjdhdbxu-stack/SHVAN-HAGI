@@ -1118,17 +1118,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105714.png?v=1"
     },
     {
-      "title": "Iraqi sport",
-      "name": "Iraqi sport",
-      "stream_url": "http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/3924.ts",
-      "url": "http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/3924.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhLLCxvLSUehPSNoPWBoORF1bzEVCCC9uYC7hE82n1A&s=10"
-    },
-    {
       "title": "MMN SPORT ",
       "name": "MMN SPORT ",
       "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdsport/media_w700466617_32247.m3u8",
@@ -1138,6 +1127,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": ""
+    },
+    {
+      "title": "Iraqi sport",
+      "name": "Iraqi sport",
+      "stream_url": "http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/3924.ts",
+      "url": "http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/3924.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhLLCxvLSUehPSNoPWBoORF1bzEVCCC9uYC7hE82n1A&s=10"
     },
     {
       "title": "Iraqi sports syriac",
