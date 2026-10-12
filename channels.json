@@ -1809,6 +1809,17 @@
       "user_agent": "",
       "category": "TURKISH",
       "logo": ""
+    },
+    {
+      "title": "TRT turk",
+      "name": "TRT turk",
+      "stream_url": "http://tv-trtturk.medya.trt.com.tr/master_1080.m3u8",
+      "url": "http://tv-trtturk.medya.trt.com.tr/master_1080.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
