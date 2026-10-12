@@ -1294,6 +1294,17 @@
       "logo": ""
     },
     {
+      "title": "شاهد sport 1",
+      "name": "شاهد sport 1",
+      "stream_url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?",
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
