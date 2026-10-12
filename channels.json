@@ -1611,6 +1611,17 @@
       "user_agent": "",
       "category": "TURKISH",
       "logo": ""
+    },
+    {
+      "title": "SHOW MAX",
+      "name": "SHOW MAX",
+      "stream_url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8",
+      "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
