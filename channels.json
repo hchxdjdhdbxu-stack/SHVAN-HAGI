@@ -1952,6 +1952,28 @@
       "user_agent": "",
       "category": "DOCUMENTARY",
       "logo": ""
+    },
+    {
+      "title": "RT Documentary",
+      "name": "RT Documentary",
+      "stream_url": "http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8",
+      "url": "http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
+    },
+    {
+      "title": "DW Documentary",
+      "name": "DW Documentary",
+      "stream_url": "http://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+      "url": "http://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
     }
   ]
 }
