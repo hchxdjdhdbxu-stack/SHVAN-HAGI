@@ -1349,6 +1349,17 @@
       "logo": ""
     },
     {
+      "title": "SPORT",
+      "name": "SPORT",
+      "stream_url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
