@@ -1622,6 +1622,17 @@
       "user_agent": "",
       "category": "TURKISH",
       "logo": ""
+    },
+    {
+      "title": "Star TV",
+      "name": "Star TV",
+      "stream_url": "http://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3",
+      "url": "http://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
