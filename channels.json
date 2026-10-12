@@ -2051,6 +2051,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": ""
+    },
+    {
+      "title": "MBC 3",
+      "name": "MBC 3",
+      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": ""
     }
   ]
 }
