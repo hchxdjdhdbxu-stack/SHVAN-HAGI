@@ -2029,6 +2029,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": ""
+    },
+    {
+      "title": "MBC 1",
+      "name": "MBC 1",
+      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": ""
     }
   ]
 }
