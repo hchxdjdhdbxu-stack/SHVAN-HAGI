@@ -1217,6 +1217,17 @@
       "logo": ""
     },
     {
+      "title": "Alkass 2",
+      "name": "Alkass 2",
+      "stream_url": "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
+      "url": "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
