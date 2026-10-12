@@ -1699,6 +1699,17 @@
       "user_agent": "",
       "category": "TURKISH",
       "logo": ""
+    },
+    {
+      "title": "Kanal D",
+      "name": "Kanal D",
+      "stream_url": "http://boxviptv.com:25461/bb348/762625/84",
+      "url": "http://boxviptv.com:25461/bb348/762625/84",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
     }
   ]
 }
