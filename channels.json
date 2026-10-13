@@ -1076,8 +1076,8 @@
     {
       "title": "AVA SPORT",
       "name": "AVA SPORT",
-      "stream_url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
-      "url": "http://avrstream.com:1935/live/AvaSport/tracks-v1a1/mono.m3u8",
+      "stream_url": "http://149.57.40.18:25461/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts",
+      "url": "http://149.57.40.18:25461/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
