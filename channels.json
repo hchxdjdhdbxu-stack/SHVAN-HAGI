@@ -460,8 +460,8 @@
     {
       "title": "Zaxo tv",
       "name": "Zaxo tv",
-      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
-      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802100&extension=m3u8",
+      "stream_url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258601.ts",
+      "url": "http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/258601.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
