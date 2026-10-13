@@ -1965,6 +1965,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17791207.png?v=2"
     },
     {
+      "title": "Asharqdiscovery",
+      "name": "Asharqdiscovery",
+      "stream_url": "http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+      "url": "http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
+    },
+    {
       "title": "SHAHID ACTION",
       "name": "SHAHID ACTION",
       "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
