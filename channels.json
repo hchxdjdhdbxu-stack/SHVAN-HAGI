@@ -2293,6 +2293,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3r-GkgEfCILbxe9U7xlNOzQxQI3kbk9_gv3tTW0wxQ&s=10"
+    },
+    {
+      "title": "Kurdsat fm",
+      "name": "Kurdsat fm",
+      "stream_url": "http://uk3.internet-radio.com:8011/listen.pls&amp;title=Dengi",
+      "url": "http://uk3.internet-radio.com:8011/listen.pls&amp;title=Dengi",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjV3ciHsnRhdxG2cSuHGjgQPF-1LTwzNO6NlyW70_9Q&s=10"
     }
   ]
 }
