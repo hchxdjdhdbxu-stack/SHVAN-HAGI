@@ -2370,6 +2370,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLs7XSycl3kMwbTv4zOfhvmv1SAIrr21dFGUkHbDkDw&s=10"
+    },
+    {
+      "title": "Ankawa radio",
+      "name": "Ankawa radio",
+      "stream_url": "http://178.32.146.187/proxy/radioankawa?mp=/1/?n=ce1171e9e40e74d6b1d2",
+      "url": "http://178.32.146.187/proxy/radioankawa?mp=/1/?n=ce1171e9e40e74d6b1d2",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMK5VC4wb4j9h02WfPYGTbTgdE0TGIw02aqqmFwZBxQ&s=10"
     }
   ]
 }
