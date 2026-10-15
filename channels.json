@@ -2304,6 +2304,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjV3ciHsnRhdxG2cSuHGjgQPF-1LTwzNO6NlyW70_9Q&s=10"
+    },
+    {
+      "title": "8 radio",
+      "name": "8 radio",
+      "stream_url": "https://a8.asurahosting.com:7850/radio.mp3",
+      "url": "https://a8.asurahosting.com:7850/radio.mp3",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcp9f61xhdGb1jQpCsuM5MMGR3beSG6PUMZ_W4W6_Rg&s=10"
     }
   ]
 }
