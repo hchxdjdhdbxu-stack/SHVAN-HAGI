@@ -2271,6 +2271,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPds7oRs9gEDZ9eyheZZMO0vZmZSteBhQ5GZP_BDuJIQ&s=10"
+    },
+    {
+      "title": "Nawa kurdi fm",
+      "name": "Nawa kurdi fm",
+      "stream_url": "https://live20.bozztv.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-Nawakurdi/Nawakurdi/chunks.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswyGZrzIZwREh4jHjWAJuWwDoFRc5a5JY3b4_Vik-6Q&s=10"
     }
   ]
 }
