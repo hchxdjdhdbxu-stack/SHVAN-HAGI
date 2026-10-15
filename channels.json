@@ -2328,6 +2328,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhdV10qjkUOk4kEWfhTrLRgPrrLsjwHBMIuFsweVr3A&s=10"
     },
     {
+      "title": "Delal radio",
+      "name": "Delal radio",
+      "stream_url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/chunklist_w1862017132.m3u8",
+      "url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/chunklist_w1862017132.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwBa5IXe38k55IrrUqkSokKdTD9oQC2M26MMU_G5AQ&s=10"
+    },
+    {
       "title": "Kurdsat fm",
       "name": "Kurdsat fm",
       "stream_url": "http://uk3.internet-radio.com:8011/listen.pls&amp;title=Dengi",
@@ -2359,17 +2370,6 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkJFnA86pE5jltmEAuPU2ywgH8-9bDsa1AVkni1AtdQ&s=10"
-    },
-    {
-      "title": "Delal radio",
-      "name": "Delal radio",
-      "stream_url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/chunklist_w1862017132.m3u8",
-      "url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/chunklist_w1862017132.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwBa5IXe38k55IrrUqkSokKdTD9oQC2M26MMU_G5AQ&s=10"
     },
     {
       "title": "8 radio",
