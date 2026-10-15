@@ -2337,6 +2337,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhdV10qjkUOk4kEWfhTrLRgPrrLsjwHBMIuFsweVr3A&s=10"
+    },
+    {
+      "title": "Kurd mix radio sweden",
+      "name": "Kurd mix radio sweden",
+      "stream_url": "http://solid55.streamupsolutions.com:32000/stream",
+      "url": "http://solid55.streamupsolutions.com:32000/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMRlPQTtsu6iwXBdB8VpGHKALj8MGbaMzvq3vstVWHw&s=10"
     }
   ]
 }
