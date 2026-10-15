@@ -2458,6 +2458,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPHyBUDKtg0A401tcTWTBJUNjPvney8my_OnOfkfrAw&s=10"
+    },
+    {
+      "title": "Qamishlo fm",
+      "name": "Qamishlo fm",
+      "stream_url": "https://wesan.radyodengbej.com/8056/stream",
+      "url": "https://wesan.radyodengbej.com/8056/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUxtsbq68bcavMXbW4jKGXXaUsTn5lmxSiQGp4y6zrg&s=10"
     }
   ]
 }
