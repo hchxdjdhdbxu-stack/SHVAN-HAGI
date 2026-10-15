@@ -2425,6 +2425,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwBa5IXe38k55IrrUqkSokKdTD9oQC2M26MMU_G5AQ&s=10"
+    },
+    {
+      "title": "AVA RADIO",
+      "name": "AVA RADIO",
+      "stream_url": "https://ava.nodeict.online/;",
+      "url": "https://ava.nodeict.online/;",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisW-n0shbpPjGciKHNF3QH0N46WzTdDK7ApIn53WBtA&s=10"
     }
   ]
 }
