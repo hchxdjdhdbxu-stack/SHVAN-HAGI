@@ -2392,6 +2392,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkJFnA86pE5jltmEAuPU2ywgH8-9bDsa1AVkni1AtdQ&s=10"
+    },
+    {
+      "title": "Kurd1 radio",
+      "name": "Kurd1 radio",
+      "stream_url": "https://listen.radioking.com/radio/119251/stream/158701",
+      "url": "https://listen.radioking.com/radio/119251/stream/158701",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5508U09Df2pi6VQNDA84f580MAeKvj8wkjy22xlli0w&s=10"
     }
   ]
 }
