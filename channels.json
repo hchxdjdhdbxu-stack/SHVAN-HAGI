@@ -2502,6 +2502,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvbxCrRnVYo9zXBlHPr9h-ppBShmaeIq8mRa-er5yuw&s=10"
+    },
+    {
+      "title": "Quran radio",
+      "name": "Quran radio",
+      "stream_url": "https://backup.qurango.net/radio/tarateel",
+      "url": "https://backup.qurango.net/radio/tarateel",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAPn4V51ZxHn94DTRHL0XbQDcj00JxtdAV3kTbViI5w&s"
     }
   ]
 }
