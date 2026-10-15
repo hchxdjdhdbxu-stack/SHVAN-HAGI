@@ -2436,6 +2436,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisW-n0shbpPjGciKHNF3QH0N46WzTdDK7ApIn53WBtA&s=10"
+    },
+    {
+      "title": "UTV radio",
+      "name": "UTV radio",
+      "stream_url": "https://stream-179.surfernetwork.com/ud0wera9hy2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZDB3ZXJhOWh5MnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI1TGgwWGFGUFE3S05uaXlaM1QtZ1p3IiwiaWF0IjoxNzkyMDY5Mzc0LCJleHAiOjE3OTIwNjk0MzR9.xE1B2Q754kA40GLBQKYXIaxL2vv-5iF5G_j5-KlnKII",
+      "url": "https://stream-179.surfernetwork.com/ud0wera9hy2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZDB3ZXJhOWh5MnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI1TGgwWGFGUFE3S05uaXlaM1QtZ1p3IiwiaWF0IjoxNzkyMDY5Mzc0LCJleHAiOjE3OTIwNjk0MzR9.xE1B2Q754kA40GLBQKYXIaxL2vv-5iF5G_j5-KlnKII",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAROci9OsOA1aAEwYokkwe5hKbao0vfpFzPbEz2ZptZg&s=10"
     }
   ]
 }
