@@ -2535,6 +2535,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXf5Zr4bSU4K_aq65bQ1lwDjOBswlWxIzQ_EcVFFJyw&s=10"
+    },
+    {
+      "title": "Vin radio",
+      "name": "Vin radio",
+      "stream_url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
+      "url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
     }
   ]
 }
