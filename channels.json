@@ -2238,6 +2238,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMh0v5Ph3KfHKojUNEooB0Vx6xC285mhgiTwsqvLOSQ&s=10"
+    },
+    {
+      "title": "Khak fm",
+      "name": "Khak fm",
+      "stream_url": "http://siliconvalley.servep2p.com:8000/khakfm",
+      "url": "http://siliconvalley.servep2p.com:8000/khakfm",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQmU3_pFJcqPAMQWgpyl8MDK_cE7xRAYiCotlalGpNA&s=10"
     }
   ]
 }
