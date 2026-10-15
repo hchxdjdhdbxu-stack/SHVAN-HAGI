@@ -2359,6 +2359,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpiqjw5vyQMIkgE36w7O2Suysu0NObXtLgwAT05u5Yg&s=10"
+    },
+    {
+      "title": "Hawler radio",
+      "name": "Hawler radio",
+      "stream_url": "http://usa13.fastcast4u.com:5908/stream",
+      "url": "http://usa13.fastcast4u.com:5908/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLs7XSycl3kMwbTv4zOfhvmv1SAIrr21dFGUkHbDkDw&s=10"
     }
   ]
 }
