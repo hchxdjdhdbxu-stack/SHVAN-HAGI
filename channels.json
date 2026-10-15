@@ -2282,6 +2282,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswyGZrzIZwREh4jHjWAJuWwDoFRc5a5JY3b4_Vik-6Q&s=10"
+    },
+    {
+      "title": "Goran fm",
+      "name": "Goran fm",
+      "stream_url": "https://radio.host247.net/dgoran",
+      "url": "https://radio.host247.net/dgoran",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3r-GkgEfCILbxe9U7xlNOzQxQI3kbk9_gv3tTW0wxQ&s=10"
     }
   ]
 }
