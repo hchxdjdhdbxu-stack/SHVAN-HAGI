@@ -2513,6 +2513,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAPn4V51ZxHn94DTRHL0XbQDcj00JxtdAV3kTbViI5w&s"
+    },
+    {
+      "title": "Peshawa qadir",
+      "name": "Peshawa qadir",
+      "stream_url": "http://r15.tarat.com:8006/index.html/stream",
+      "url": "http://r15.tarat.com:8006/index.html/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ee1J2nPmtCbLkkqtiVfCxbrfvTlAclInKjMq9md-2A&s=10"
     }
   ]
 }
