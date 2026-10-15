@@ -2326,6 +2326,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphNVoAipP3WcWFDwPZVe_GR2dzpktaXHxYvZ2KnPnRg&s=10"
+    },
+    {
+      "title": "SPEDA fm",
+      "name": "SPEDA fm",
+      "stream_url": "https://radio.host247.net/spedafm",
+      "url": "https://radio.host247.net/spedafm",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhdV10qjkUOk4kEWfhTrLRgPrrLsjwHBMIuFsweVr3A&s=10"
     }
   ]
 }
