@@ -2216,6 +2216,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FeT0jFQVdjE2QK0mLkq9OfwPcnAYas2uMlLTuHHrA&s=10"
+    },
+    {
+      "title": "Waar radio ",
+      "name": "Waar radio ",
+      "stream_url": "https://c4.radioboss.fm:8633/stream",
+      "url": "https://c4.radioboss.fm:8633/stream",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eUlLGQaWzITbxgr-YKTtrj3Z5n_OXTjpBUsb6AWlHw&s=10"
     }
   ]
 }
