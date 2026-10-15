@@ -2447,6 +2447,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAROci9OsOA1aAEwYokkwe5hKbao0vfpFzPbEz2ZptZg&s=10"
+    },
+    {
+      "title": "DENGE cudi fm",
+      "name": "DENGE cudi fm",
+      "stream_url": "https://denge-cudi.stream.laut.fm/denge-cudi",
+      "url": "https://denge-cudi.stream.laut.fm/denge-cudi",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPHyBUDKtg0A401tcTWTBJUNjPvney8my_OnOfkfrAw&s=10"
     }
   ]
 }
