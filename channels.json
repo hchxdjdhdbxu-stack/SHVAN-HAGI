@@ -2469,6 +2469,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUxtsbq68bcavMXbW4jKGXXaUsTn5lmxSiQGp4y6zrg&s=10"
+    },
+    {
+      "title": "Dengi Islam slemani",
+      "name": "Dengi Islam slemani",
+      "stream_url": "http://siliconvalley.servep2p.com:8000/dislam",
+      "url": "http://siliconvalley.servep2p.com:8000/dislam",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIrl838wBqNZXPybO3blqkBSlZJn0v0gNiJsy9pIgYg&s=10"
     }
   ]
 }
