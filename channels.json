@@ -2480,6 +2480,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIrl838wBqNZXPybO3blqkBSlZJn0v0gNiJsy9pIgYg&s=10"
+    },
+    {
+      "title": "Dengi Islam hawler",
+      "name": "Dengi Islam hawler",
+      "stream_url": "http://radio1.sotmasr.com:9354/;",
+      "url": "http://radio1.sotmasr.com:9354/;",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmA8KmmxHaP93D-kp5_JXnh1SHHWsJTWuY1w4HMAcyw&s"
     }
   ]
 }
