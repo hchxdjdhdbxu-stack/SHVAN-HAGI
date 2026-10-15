@@ -2315,6 +2315,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcp9f61xhdGb1jQpCsuM5MMGR3beSG6PUMZ_W4W6_Rg&s=10"
+    },
+    {
+      "title": "TAV",
+      "name": "TAV",
+      "stream_url": "https://stream-177.surfernetwork.com/525ubs0e9rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MjV1YnMwZTlyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI5VG45MHlzWFN3MkFiX0ZzLU5kTTZ3IiwiaWF0IjoxNzkyMDY4MDE5LCJleHAiOjE3OTIwNjgwNzl9.smnlnW-CpoI24Sp2vQRLfzznH7Or-izqQoUZ3PQMLMM",
+      "url": "https://stream-177.surfernetwork.com/525ubs0e9rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MjV1YnMwZTlyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI5VG45MHlzWFN3MkFiX0ZzLU5kTTZ3IiwiaWF0IjoxNzkyMDY4MDE5LCJleHAiOjE3OTIwNjgwNzl9.smnlnW-CpoI24Sp2vQRLfzznH7Or-izqQoUZ3PQMLMM",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphNVoAipP3WcWFDwPZVe_GR2dzpktaXHxYvZ2KnPnRg&s=10"
     }
   ]
 }
