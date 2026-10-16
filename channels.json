@@ -2568,6 +2568,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmehmOxaqjNhqucUiBxa-6PzOpNoRxgl1ltfJWcu0VAA&s=10"
+    },
+    {
+      "title": "Made in Hollywood ",
+      "name": "Made in Hollywood ",
+      "stream_url": "http://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+      "url": "http://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN29b4T6oa_23kg-705GQ9GGdGLxF7tDmUTNUHy2yYsg&s=10"
     }
   ]
 }
