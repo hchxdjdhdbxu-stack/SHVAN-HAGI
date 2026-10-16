@@ -2616,8 +2616,8 @@
     {
       "title": "افلام مصرية",
       "name": "افلام مصرية",
-      "stream_url": "http://707a7c76e6034ca9aba47e6eed3d5a8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/amagi-now-prod-live-hls-web-prerolls/6b36c5f5-e1a5-446c-848f-2f535cfa2573/0.m3u8",
-      "url": "http://707a7c76e6034ca9aba47e6eed3d5a8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/amagi-now-prod-live-hls-web-prerolls/6b36c5f5-e1a5-446c-848f-2f535cfa2573/0.m3u8",
+      "stream_url": "https://707a7c76e6034ca9aba47e6eed3d5a8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/amagi-now-prod-live-hls-web-prerolls/6b36c5f5-e1a5-446c-848f-2f535cfa2573/0.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264",
+      "url": "https://707a7c76e6034ca9aba47e6eed3d5a8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/amagi-now-prod-live-hls-web-prerolls/6b36c5f5-e1a5-446c-848f-2f535cfa2573/0.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
