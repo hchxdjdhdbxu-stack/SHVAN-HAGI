@@ -2634,6 +2634,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21N3D4DEXv8xADqxdWMvRLWeJKNNtVgXDlfRl_zMF_w&s=10"
+    },
+    {
+      "title": "Maverick black cinema",
+      "name": "Maverick black cinema",
+      "stream_url": "https://play.google.com/store/apps/details?id=",
+      "url": "https://play.google.com/store/apps/details?id=",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": ""
     }
   ]
 }
