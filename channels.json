@@ -2678,6 +2678,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9gkbPujS-653niuTRAtgW8sxmJlkkz1LEYBmUaLggQ&s=10"
+    },
+    {
+      "title": "Xtreama Accion",
+      "name": "Xtreama Accion",
+      "stream_url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+      "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAmzG5zZqCH4qG7ueHu6Whher2vjScDohX3YxYNXa6w&s=10"
     }
   ]
 }
