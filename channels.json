@@ -2638,13 +2638,13 @@
     {
       "title": "Maverick black cinema",
       "name": "Maverick black cinema",
-      "stream_url": "https://play.google.com/store/apps/details?id=",
-      "url": "https://play.google.com/store/apps/details?id=",
+      "stream_url": "http://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
+      "url": "http://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "MOVIES",
-      "logo": ""
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiHJr40I4B-cDLsSF9aqEh8SswZZqsScyupfzkOm3RQ&s=10"
     }
   ]
 }
