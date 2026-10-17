@@ -2689,6 +2689,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAmzG5zZqCH4qG7ueHu6Whher2vjScDohX3YxYNXa6w&s=10"
+    },
+    {
+      "title": "Zelo cine nanar",
+      "name": "Zelo cine nanar",
+      "stream_url": "https://rakutenaa-zylo-cinenanar-rakuten-rgmak.amagi.tv/playlist/rakutenAA-zylo-cinenanar-rakuten/playlist.m3u8",
+      "url": "https://rakutenaa-zylo-cinenanar-rakuten-rgmak.amagi.tv/playlist/rakutenAA-zylo-cinenanar-rakuten/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR527ZeMmdc43OmpWr61sMNkdVO5xjvmNGTSGyyDl5MqQ&s=10"
     }
   ]
 }
