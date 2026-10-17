@@ -2735,17 +2735,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ee1J2nPmtCbLkkqtiVfCxbrfvTlAclInKjMq9md-2A&s=10"
     },
     {
-      "title": "Vin radio",
-      "name": "Vin radio",
-      "stream_url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
-      "url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
-    },
-    {
       "title": "Kurdish voice",
       "name": "Kurdish voice",
       "stream_url": "https://stream-178.surfernetwork.com/1xx0z3uwvk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxeHgwejN1d3ZrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJXTHM1Mm15blRNLV9CR2FCQ1NGMFd3IiwiaWF0IjoxNzkyMDcxMDk5LCJleHAiOjE3OTIwNzExNTl9.iLbScZZpjvpbQQGGQo9mnvxxwo0EmywFnkncvN9pe2Y",
@@ -2755,6 +2744,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHiNiCBE_1-LH2NAvx0lJ9gz9l_Z02ZGSKhxjlOa9jqQ&s=10"
+    },
+    {
+      "title": "Vin radio",
+      "name": "Vin radio",
+      "stream_url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
+      "url": "https://anadolu.liderhost.com.tr:10939/;?1779522936759",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "RADIO",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
     }
   ]
 }
