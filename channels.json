@@ -2733,6 +2733,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNzvUILOdt88Dm3_gGnNhYStyPWoKu__sSUsML_jaxg&s=10"
+    },
+    {
+      "title": "Afro Land",
+      "name": "Afro Land",
+      "stream_url": "https://alt-al.otteravision.com/alt/al/al_1080p.m3u8",
+      "url": "https://alt-al.otteravision.com/alt/al/al_1080p.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFasLidoayrXF4Soisk_7HPkQyUsE6xYu3qILTMEdiOA&s=10"
     }
   ]
 }
