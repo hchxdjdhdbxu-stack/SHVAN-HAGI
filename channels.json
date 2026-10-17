@@ -2722,6 +2722,17 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgPqeDMwrPG0MCXhChTjd1BWCIOeEiY4OmHaxZ1WE8Q&s"
+    },
+    {
+      "title": "BBC SERIES",
+      "name": "BBC SERIES",
+      "stream_url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8",
+      "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNzvUILOdt88Dm3_gGnNhYStyPWoKu__sSUsML_jaxg&s=10"
     }
   ]
 }
