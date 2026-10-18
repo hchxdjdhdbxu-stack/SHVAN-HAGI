@@ -436,6 +436,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702056.png?v=2"
     },
     {
+      "title": "Barin documentary",
+      "name": "Barin documentary",
+      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
+    },
+    {
       "title": "TRT kurdi",
       "name": "TRT kurdi",
       "stream_url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
@@ -458,17 +469,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
     },
     {
-      "title": "Barin documentary",
-      "name": "Barin documentary",
-      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
-    },
-    {
       "title": "Barin family",
       "name": "Barin family",
       "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
@@ -478,6 +478,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
+    },
+    {
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "KANI",
@@ -511,17 +522,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "DENGE ZELAL",
