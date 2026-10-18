@@ -348,6 +348,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922676.png?v=1"
     },
     {
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
+    },
+    {
       "title": "Euro kurd",
       "name": "Euro kurd",
       "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -390,17 +401,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616452.png?v=4"
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "Niroj HD",
