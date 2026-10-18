@@ -1833,6 +1833,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5479.png?ts=1791929857864"
     },
     {
+      "title": "Kanal 85 tv",
+      "name": "Kanal 85 tv",
+      "stream_url": "http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
+      "url": "http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "TURKISH",
+      "logo": ""
+    },
+    {
       "title": "الجزيره وثايقيه",
       "name": "الجزيره وثايقيه",
       "stream_url": "http://live-hls-web-ajd.getaj.net/AJD/01.m3u8",
