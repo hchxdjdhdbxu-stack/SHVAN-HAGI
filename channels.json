@@ -502,6 +502,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
     },
     {
+      "title": "Befrin TV",
+      "name": "Befrin TV",
+      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
+    },
+    {
       "title": "KANI",
       "name": "KANI",
       "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212822.ts",
@@ -544,17 +555,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630247.png?v=2"
-    },
-    {
-      "title": "Befrin TV",
-      "name": "Befrin TV",
-      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
-      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
     },
     {
       "title": "NEXT",
