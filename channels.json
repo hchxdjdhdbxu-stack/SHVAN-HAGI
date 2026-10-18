@@ -1063,17 +1063,6 @@
       "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "title": "NRT-SPORT ",
-      "name": "NRT-SPORT ",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFd212V_-8TXY8Kz7FRiQmYezqcvlutF-zl11a5vyXw&s=10"
-    },
-    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "https://silka.m3um9xplus.org:2052/live/21116253178258/14909458224355/602828.ts",
@@ -1083,6 +1072,17 @@
       "user_agent": "SmartIPTV",
       "category": "SPORTS",
       "logo": ""
+    },
+    {
+      "title": "NRT-SPORT ",
+      "name": "NRT-SPORT ",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212765.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFd212V_-8TXY8Kz7FRiQmYezqcvlutF-zl11a5vyXw&s=10"
     },
     {
       "title": "ZAXO SPORT ",
