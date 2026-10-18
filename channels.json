@@ -601,6 +601,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630251.png?v=2"
     },
     {
+      "title": "OREMAR TV",
+      "name": "OREMAR TV",
+      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
+    },
+    {
       "title": "NRT4",
       "name": "NRT4",
       "stream_url": "http://var8k.cc:8080/live/4917636663251/35727386005/435273.ts",
@@ -643,17 +654,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737223.png?v=2"
-    },
-    {
-      "title": "OREMAR TV",
-      "name": "OREMAR TV",
-      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
     },
     {
       "title": "NEWLINE drama",
