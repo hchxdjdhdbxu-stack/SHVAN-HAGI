@@ -458,6 +458,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702056.png?v=2"
     },
     {
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
+    },
+    {
       "title": "TRT kurdi",
       "name": "TRT kurdi",
       "stream_url": "http://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
@@ -478,17 +489,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "KANI",
