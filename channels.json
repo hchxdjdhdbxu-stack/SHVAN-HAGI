@@ -1703,8 +1703,8 @@
     {
       "title": "Kanal D",
       "name": "Kanal D",
-      "stream_url": "http://45.159.95.198/iptv/KZS7B6N7U3WHHWLTDNAV7AZ5/2304/1792361565000.ts?md5=QlLmmACE5gsikD0E1Ppm3Q",
-      "url": "http://45.159.95.198/iptv/KZS7B6N7U3WHHWLTDNAV7AZ5/2304/1792361565000.ts?md5=QlLmmACE5gsikD0E1Ppm3Q",
+      "stream_url": "https://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/KanalD.m3u8",
+      "url": "https://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/KanalD.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
