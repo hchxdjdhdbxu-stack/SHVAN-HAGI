@@ -359,6 +359,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922676.png?v=1"
     },
     {
+      "title": "DENGE ZELAL",
+      "name": "DENGE ZELAL",
+      "stream_url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
+    },
+    {
       "title": "Euro kurd",
       "name": "Euro kurd",
       "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -379,17 +390,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616450.png?v=4"
-    },
-    {
-      "title": "DENGE ZELAL",
-      "name": "DENGE ZELAL",
-      "stream_url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
-      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
     },
     {
       "title": "Gewher HD",
