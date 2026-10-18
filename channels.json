@@ -392,6 +392,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702053.png?v=3"
     },
     {
+      "title": "Barin documentary",
+      "name": "Barin documentary",
+      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
+    },
+    {
       "title": "Utv duhok",
       "name": "Utv duhok",
       "stream_url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
@@ -434,17 +445,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702056.png?v=2"
-    },
-    {
-      "title": "Barin documentary",
-      "name": "Barin documentary",
-      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
     },
     {
       "title": "TRT kurdi",
