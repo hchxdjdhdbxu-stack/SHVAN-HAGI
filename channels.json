@@ -348,17 +348,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
-      "title": "BINAR TV",
-      "name": "BINAR TV",
-      "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
-      "url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922673.png?v=2"
-    },
-    {
       "title": "OREMAR TV",
       "name": "OREMAR TV",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
@@ -368,6 +357,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
+    },
+    {
+      "title": "BINAR TV",
+      "name": "BINAR TV",
+      "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
+      "url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922673.png?v=2"
     },
     {
       "title": "Kurd 4k",
