@@ -590,6 +590,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
     },
     {
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
+    },
+    {
       "title": "NEWLINE 2",
       "name": "NEWLINE 2",
       "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/119550.m3u8",
@@ -612,15 +623,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737223.png?v=2"
     },
     {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "title": "Barin movies",
+      "name": "Barin movies",
+      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "NEWLINE drama",
@@ -654,17 +665,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
-    },
-    {
-      "title": "Barin movies",
-      "name": "Barin movies",
-      "stream_url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
       "title": "Befrin TV",
