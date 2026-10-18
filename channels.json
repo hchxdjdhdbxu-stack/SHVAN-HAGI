@@ -326,6 +326,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922674.png?v=1"
     },
     {
+      "title": "Kurd chanel",
+      "name": "Kurd chanel",
+      "stream_url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922676.png?v=1"
+    },
+    {
       "title": "Euro kurd",
       "name": "Euro kurd",
       "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -337,15 +348,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922675.png?v=1"
     },
     {
-      "title": "Kurd chanel",
-      "name": "Kurd chanel",
-      "stream_url": "https://kurdchhls.wns.live/hls/stream.m3u8",
-      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922676.png?v=1"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
     },
     {
       "title": "Bangxwazen badinan",
@@ -368,17 +379,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616451.png?v=4"
-    },
-    {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
     },
     {
       "title": "RAVAND HD",
