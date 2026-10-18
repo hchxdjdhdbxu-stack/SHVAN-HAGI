@@ -315,17 +315,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922674.png?v=1"
     },
     {
-      "title": "Euro kurd",
-      "name": "Euro kurd",
-      "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922675.png?v=1"
-    },
-    {
       "title": "Barin documentary",
       "name": "Barin documentary",
       "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
@@ -335,6 +324,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
+    },
+    {
+      "title": "Euro kurd",
+      "name": "Euro kurd",
+      "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922675.png?v=1"
     },
     {
       "title": "Kurd chanel",
