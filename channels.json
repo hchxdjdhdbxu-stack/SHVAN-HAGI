@@ -1085,17 +1085,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUnE3bgisztMWkooA67I3CvoLfRCpjgr_2lvIzeekqw&s=10"
     },
     {
-      "title": "Duhok sport 1",
-      "name": "Duhok sport 1",
-      "stream_url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212838.ts",
-      "url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212838.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "SmartIPTV",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77yfmp1KhtRKIo_gcpsb1y_bONdRDS_9C2hEKUglHjQ&s=10"
-    },
-    {
       "title": "Delal sport ",
       "name": "Delal sport ",
       "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/179616.ts",
@@ -1105,6 +1094,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/4424.png?ts=1791792163849"
+    },
+    {
+      "title": "Duhok sport 1",
+      "name": "Duhok sport 1",
+      "stream_url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212838.ts",
+      "url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212838.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "SmartIPTV",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77yfmp1KhtRKIo_gcpsb1y_bONdRDS_9C2hEKUglHjQ&s=10"
     },
     {
       "title": "Gewher sport",
