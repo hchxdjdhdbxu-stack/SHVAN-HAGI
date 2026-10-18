@@ -304,6 +304,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
     },
     {
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
+    },
+    {
       "title": "BINAR TV",
       "name": "BINAR TV",
       "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
@@ -324,17 +335,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922674.png?v=1"
-    },
-    {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
     },
     {
       "title": "Kurd chanel",
