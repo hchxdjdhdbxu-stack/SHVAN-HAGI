@@ -425,6 +425,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702054.png?v=2"
     },
     {
+      "title": "Barin family",
+      "name": "Barin family",
+      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
+    },
+    {
       "title": "SPEDA TV",
       "name": "SPEDA TV",
       "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802087&extension=m3u8",
@@ -467,17 +478,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
-    },
-    {
-      "title": "Barin family",
-      "name": "Barin family",
-      "stream_url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
     },
     {
       "title": "Barin movies",
