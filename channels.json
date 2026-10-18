@@ -304,6 +304,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616449.png?v=3"
     },
     {
+      "title": "Befrin TV",
+      "name": "Befrin TV",
+      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
+    },
+    {
       "title": "Barin documentary",
       "name": "Barin documentary",
       "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
@@ -324,17 +335,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNhGfjJfyJ5mkGWy-rcX6i1jyfuyTvPJHsz2u1CSrViVQPoJhBFkOrM2A&s=10"
-    },
-    {
-      "title": "Befrin TV",
-      "name": "Befrin TV",
-      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
-      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
     },
     {
       "title": "Barin movies",
