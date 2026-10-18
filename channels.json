@@ -282,6 +282,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616449.png?v=3"
     },
     {
+      "title": "Xabir tv",
+      "name": "Xabir tv",
+      "stream_url": "http://dana4kpro.com:8080/Mohamedalahmad/6dg71a3b6/392714",
+      "url": "http://dana4kpro.com:8080/Mohamedalahmad/6dg71a3b6/392714",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630245.png?v=2"
+    },
+    {
       "title": "BINAR TV",
       "name": "BINAR TV",
       "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
@@ -302,17 +313,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922674.png?v=1"
-    },
-    {
-      "title": "Xabir tv",
-      "name": "Xabir tv",
-      "stream_url": "http://dana4kpro.com:8080/Mohamedalahmad/6dg71a3b6/392714",
-      "url": "http://dana4kpro.com:8080/Mohamedalahmad/6dg71a3b6/392714",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630245.png?v=2"
     },
     {
       "title": "Euro kurd",
