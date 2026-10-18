@@ -447,6 +447,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702053.png?v=3"
     },
     {
+      "title": "OREMAR TV",
+      "name": "OREMAR TV",
+      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
+    },
+    {
       "title": "Utv duhok",
       "name": "Utv duhok",
       "stream_url": "http://supaapp.xyz/live/2551810583569940/2025565766597215/429843.ts",
@@ -511,17 +522,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
-    },
-    {
-      "title": "OREMAR TV",
-      "name": "OREMAR TV",
-      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
     },
     {
       "title": "KANI",
