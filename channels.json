@@ -293,6 +293,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616449.png?v=3"
     },
     {
+      "title": "DENGE ZELAL",
+      "name": "DENGE ZELAL",
+      "stream_url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
+    },
+    {
       "title": "Barin documentary",
       "name": "Barin documentary",
       "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
@@ -324,17 +335,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
-    },
-    {
-      "title": "DENGE ZELAL",
-      "name": "DENGE ZELAL",
-      "stream_url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
-      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
     },
     {
       "title": "BINAR TV",
