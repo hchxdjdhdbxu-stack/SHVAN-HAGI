@@ -524,6 +524,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
     },
     {
+      "title": "Barin documentary",
+      "name": "Barin documentary",
+      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
+    },
+    {
       "title": "RED TV",
       "name": "RED TV",
       "stream_url": "http://avrstream.com:1935/live/REDTV/playlist.m3u8",
@@ -544,17 +555,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630250.png?v=2"
-    },
-    {
-      "title": "Barin documentary",
-      "name": "Barin documentary",
-      "stream_url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "url": "http://87.98.145.107/edge/streambarin-doc/chunks.m3u8?type=live",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUd9kvDMlFH6nBxJQPLsai4UgOa7HdgzcOPgqyCW1_wljkjXbTrv2M2cvZ&s=10"
     },
     {
       "title": "NRT2",
