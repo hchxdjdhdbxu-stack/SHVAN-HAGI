@@ -370,6 +370,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922674.png?v=1"
     },
     {
+      "title": "OREMAR TV",
+      "name": "OREMAR TV",
+      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
+    },
+    {
       "title": "Kurd chanel",
       "name": "Kurd chanel",
       "stream_url": "https://kurdchhls.wns.live/hls/stream.m3u8",
@@ -401,17 +412,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616450.png?v=4"
-    },
-    {
-      "title": "OREMAR TV",
-      "name": "OREMAR TV",
-      "stream_url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "url": "https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
     },
     {
       "title": "Gewher HD",
