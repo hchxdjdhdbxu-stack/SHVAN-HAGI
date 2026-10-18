@@ -1747,8 +1747,8 @@
     {
       "title": "TV 8 HD TR",
       "name": "TV 8 HD TR",
-      "stream_url": "http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
-      "url": "http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
+      "stream_url": "https://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/Kanal8.m3u8",
+      "url": "https://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/Kanal8.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
