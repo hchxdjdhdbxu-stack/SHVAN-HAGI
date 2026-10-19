@@ -2031,17 +2031,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904730.png?v=1"
     },
     {
-      "title": "IRAQIA KURDÎ",
-      "name": "IRAQIA KURDÎ",
-      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
       "title": "MBC 1",
       "name": "MBC 1",
       "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
@@ -2073,6 +2062,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904733.png?v=1"
+    },
+    {
+      "title": "IRAQIA KURDÎ",
+      "name": "IRAQIA KURDÎ",
+      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
       "title": "MBC 4",
