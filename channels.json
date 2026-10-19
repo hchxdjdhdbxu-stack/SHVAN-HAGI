@@ -656,17 +656,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737224.png?v=2"
     },
     {
-      "title": "Astera culture",
-      "name": "Astera culture",
-      "stream_url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701535.ts",
-      "url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701535.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFc24tTrfcXj1KlblOQgRzdNvM4afC_LNOTYzvt47opw&s=10"
-    },
-    {
       "title": "NEWLINE Bollywood ",
       "name": "NEWLINE Bollywood ",
       "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
@@ -698,6 +687,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17652249.png?v=4"
+    },
+    {
+      "title": "Astera culture",
+      "name": "Astera culture",
+      "stream_url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701535.ts",
+      "url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701535.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFc24tTrfcXj1KlblOQgRzdNvM4afC_LNOTYzvt47opw&s=10"
     },
     {
       "title": "ZAVAR tv",
