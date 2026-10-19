@@ -1987,10 +1987,10 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17902631.png?v=1"
     },
     {
-      "title": "SHAHID ACTION",
-      "name": "SHAHID ACTION",
-      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
-      "url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+      "title": "SHAHID HORROR",
+      "name": "SHAHID HORROR",
+      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+      "url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -1998,10 +1998,10 @@
       "logo": ""
     },
     {
-      "title": "SHAHID HORROR",
-      "name": "SHAHID HORROR",
-      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
-      "url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+      "title": "SHAHID ACTION",
+      "name": "SHAHID ACTION",
+      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+      "url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
