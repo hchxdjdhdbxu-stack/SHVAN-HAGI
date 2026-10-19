@@ -1987,17 +1987,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17902631.png?v=1"
     },
     {
-      "title": "IRAQIA KURDÎ",
-      "name": "IRAQIA KURDÎ",
-      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
-    },
-    {
       "title": "SHAHID ACTION",
       "name": "SHAHID ACTION",
       "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
@@ -2007,6 +1996,17 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": ""
+    },
+    {
+      "title": "IRAQIA KURDÎ",
+      "name": "IRAQIA KURDÎ",
+      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC CHANALL",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
       "title": "SHAHID HORROR",
