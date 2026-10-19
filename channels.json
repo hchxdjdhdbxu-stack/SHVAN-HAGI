@@ -2174,17 +2174,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904742.png?v=3"
     },
     {
-      "title": "Mbc action",
-      "name": "Mbc action",
-      "stream_url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
-      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904744.png?v=2"
-    },
-    {
       "title": "Mbc bollywood ",
       "name": "Mbc bollywood ",
       "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
