@@ -403,6 +403,28 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922675.png?v=1"
     },
     {
+      "title": "Niroj HD",
+      "name": "Niroj HD",
+      "stream_url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
+      "url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
+    },
+    {
+      "title": "Mix kurd ",
+      "name": "Mix kurd ",
+      "stream_url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
+      "url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737278.png?v=4"
+    },
+    {
       "title": "Bangxwazen badinan",
       "name": "Bangxwazen badinan",
       "stream_url": "https://app-live.org/live/3268334b/index.m3u8",
@@ -436,28 +458,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616452.png?v=4"
     },
     {
-      "title": "Niroj HD",
-      "name": "Niroj HD",
-      "stream_url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
-      "url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
-    },
-    {
-      "title": "Mix kurd ",
-      "name": "Mix kurd ",
-      "stream_url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
-      "url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737278.png?v=4"
-    },
-    {
       "title": "Bangawaz tv",
       "name": "Bangawaz tv",
       "stream_url": "https://app-live.org/live/3268334b/index.m3u8",
@@ -467,6 +467,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702053.png?v=3"
+    },
+    {
+      "title": "KANI",
+      "name": "KANI",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212822.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212822.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17747835.png?v=2"
     },
     {
       "title": "Utv duhok",
@@ -533,17 +544,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702058.png?v=2"
-    },
-    {
-      "title": "KANI",
-      "name": "KANI",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212822.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212822.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17747835.png?v=2"
     },
     {
       "title": "Bask",
