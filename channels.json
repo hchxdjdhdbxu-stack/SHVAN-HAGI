@@ -449,8 +449,8 @@
     {
       "title": "Bangawaz tv",
       "name": "Bangawaz tv",
-      "stream_url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
-      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "stream_url": "https://app-live.org/live/3268334b/index.m3u8",
+      "url": "https://app-live.org/live/3268334b/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
