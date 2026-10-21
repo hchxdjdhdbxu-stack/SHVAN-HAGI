@@ -1360,6 +1360,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
     },
     {
+      "title": "Bein sport ",
+      "name": "Bein sport ",
+      "stream_url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
+      "url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": ""
+    },
+    {
       "title": "Bin sport 1 SD",
       "name": "Bin sport 1 SD",
       "stream_url": "http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/677021.ts",
@@ -2359,17 +2370,6 @@
       "user_agent": "",
       "category": "MOVIES",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFasLidoayrXF4Soisk_7HPkQyUsE6xYu3qILTMEdiOA&s=10"
-    },
-    {
-      "title": "Bin",
-      "name": "Bin",
-      "stream_url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
-      "url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "MOVIES",
-      "logo": ""
     },
     {
       "title": "Rudaw radio",
