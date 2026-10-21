@@ -2361,6 +2361,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFasLidoayrXF4Soisk_7HPkQyUsE6xYu3qILTMEdiOA&s=10"
     },
     {
+      "title": "Bin",
+      "name": "Bin",
+      "stream_url": "https: /cp77 adabmedia.com/hls2/bein1.m3u8",
+      "url": "https: /cp77 adabmedia.com/hls2/bein1.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "MOVIES",
+      "logo": ""
+    },
+    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
@@ -2722,17 +2733,6 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
-    },
-    {
-      "title": "Bin",
-      "name": "Bin",
-      "stream_url": "https: /cp77 adabmedia.com/hls2/bein1.m3u8",
-      "url": "https: /cp77 adabmedia.com/hls2/bein1.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "RADIO",
-      "logo": ""
     }
   ]
 }
