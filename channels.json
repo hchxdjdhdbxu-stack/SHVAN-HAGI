@@ -548,8 +548,8 @@
     {
       "title": "Bask",
       "name": "Bask",
-      "stream_url": "http://baskhd.ddns.net:40/live/baskhd/tracks-v1a1/mono.m3u8",
-      "url": "http://baskhd.ddns.net:40/live/baskhd/tracks-v1a1/mono.m3u8",
+      "stream_url": "http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8",
+      "url": "http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
