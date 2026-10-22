@@ -2055,8 +2055,8 @@
     {
       "title": "MBC 2",
       "name": "MBC 2",
-      "stream_url": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
-      "url": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+      "stream_url": "http://arabitv5.com:8000/live/res-ms543/aatnR3HQJA7A/1922.ts",
+      "url": "http://arabitv5.com:8000/live/res-ms543/aatnR3HQJA7A/1922.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
