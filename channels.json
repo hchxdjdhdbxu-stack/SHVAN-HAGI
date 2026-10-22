@@ -2427,17 +2427,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFasLidoayrXF4Soisk_7HPkQyUsE6xYu3qILTMEdiOA&s=10"
     },
     {
-      "title": "Yalla",
-      "name": "Yalla",
-      "stream_url": "http://lmvibb.yallashootttv.com/hls/ch1/live/index.m3u8",
-      "url": "http://lmvibb.yallashootttv.com/hls/ch1/live/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "MOVIES",
-      "logo": ""
-    },
-    {
       "title": "Rudaw radio",
       "name": "Rudaw radio",
       "stream_url": "https://radio.rudaw.net/stream/live",
