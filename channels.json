@@ -1008,6 +1008,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107814.png?v=1"
     },
     {
+      "title": "Bangawaz tv",
+      "name": "Bangawaz tv",
+      "stream_url": "http://baskhd.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "url": "http://baskhd.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/9766.png?ts=1792697505210"
+    },
+    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://silka.m3um9xplus.org:2052/live/21116253178258/14909458224355/602828.ts",
