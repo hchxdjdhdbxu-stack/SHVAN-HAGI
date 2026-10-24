@@ -163,9 +163,9 @@
     {
       "title": "Kurdmax sorani",
       "name": "Kurdmax sorani",
-      "stream_url": "http://mag.turbohdtv.com/live/PDFQU5/1Q42JD&type/1666455.ts",
-      "url": "http://mag.turbohdtv.com/live/PDFQU5/1Q42JD&type/1666455.ts",
-      "referer": "",
+      "stream_url": "https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8",
+      "url": "https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8",
+      "referer": "https://www.kurdmax.tv/",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
