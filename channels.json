@@ -1316,17 +1316,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
     },
     {
-      "title": "Realmadrid TV",
-      "name": "Realmadrid TV",
-      "stream_url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-      "url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
-    },
-    {
       "title": "شاهد sport 1",
       "name": "شاهد sport 1",
       "stream_url": "http://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
@@ -1336,6 +1325,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
+    },
+    {
+      "title": "Realmadrid TV",
+      "name": "Realmadrid TV",
+      "stream_url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+      "url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
     },
     {
       "title": "Bein sport ",
