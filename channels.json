@@ -1272,6 +1272,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
     },
     {
+      "title": "SPORT",
+      "name": "SPORT",
+      "stream_url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
+    },
+    {
       "title": "Alkass 1",
       "name": "Alkass 1",
       "stream_url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
@@ -1283,15 +1294,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "SPORT",
-      "name": "SPORT",
-      "stream_url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
-      "url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "title": "Realmadrid TV",
+      "name": "Realmadrid TV",
+      "stream_url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+      "url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
     },
     {
       "title": "Alkass 2",
@@ -1325,17 +1336,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
-    },
-    {
-      "title": "Realmadrid TV",
-      "name": "Realmadrid TV",
-      "stream_url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-      "url": "http://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
     },
     {
       "title": "Bein sport ",
