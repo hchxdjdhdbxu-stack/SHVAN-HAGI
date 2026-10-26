@@ -1250,17 +1250,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105732.png?v=1"
     },
     {
-      "title": "Alkass 1",
-      "name": "Alkass 1",
-      "stream_url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
-      "url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
-    },
-    {
       "title": "Persiana sport 2",
       "name": "Persiana sport 2",
       "stream_url": "http://pepsi.abntv.live/hls/4spstream.m3u8?checkedby:SHVAN",
@@ -1270,6 +1259,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105733.png?v=1"
+    },
+    {
+      "title": "Alkass 1",
+      "name": "Alkass 1",
+      "stream_url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
+      "url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
       "title": "Alkass 2",
