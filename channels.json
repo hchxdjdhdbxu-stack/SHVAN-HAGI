@@ -1195,17 +1195,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGpezcEFAbONXmaqZnTCVJZOKgb3I44viWlE7l4js4Q&s"
     },
     {
-      "title": "STARZ PLAY 2",
-      "name": "STARZ PLAY 2",
-      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
-      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
-    },
-    {
       "title": "THAMANIYA 1",
       "name": "THAMANIYA 1",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
@@ -1556,6 +1545,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17752703.png?v=3"
+    },
+    {
+      "title": "STARZ PLAY 2",
+      "name": "STARZ PLAY 2",
+      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
+      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ALWAN SPORT",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
       "title": "STARZ PLAY 3",
