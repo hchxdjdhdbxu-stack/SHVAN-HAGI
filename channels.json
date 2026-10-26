@@ -1602,6 +1602,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
+      "title": "Alwan sport 5",
+      "name": "Alwan sport 5",
+      "stream_url": "https://blcco.linkip.org/live/3457_.m3u8",
+      "url": "https://blcco.linkip.org/live/3457_.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ALWAN SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17694754.png?v=2"
+    },
+    {
       "title": "STARZ PLAY 3",
       "name": "STARZ PLAY 3",
       "stream_url": "http://go8knm.optikl.ink/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?|drmScheme=clearkey&drmLicense=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
@@ -1622,17 +1633,6 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
       "category": "ALWAN SPORT",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
-    },
-    {
-      "title": "Alwan sport 5",
-      "name": "Alwan sport 5",
-      "stream_url": "https://blcco.linkip.org/live/3457_.m3u8",
-      "url": "https://blcco.linkip.org/live/3457_.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ALWAN SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17694754.png?v=2"
     },
     {
       "title": "SHOW TV",
