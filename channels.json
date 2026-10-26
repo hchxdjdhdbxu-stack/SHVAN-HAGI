@@ -1074,17 +1074,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17872692.png?v=3"
     },
     {
-      "title": "Dasnya sport ",
-      "name": "Dasnya sport ",
-      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212844.ts",
-      "url": "http://77.0055.info/live/mh13928/shp5262782/212844.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07CZUTYIqxj7ayUzKallV6wzyOZ6n_w8h7ALDWNMxEA&s=10"
-    },
-    {
       "title": "ZAXO SPORT ",
       "name": "ZAXO SPORT ",
       "stream_url": "http://lbgo.bozztv.com/ssh101/live/Zaxosport/playlist.m3u8",
@@ -1094,6 +1083,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUnE3bgisztMWkooA67I3CvoLfRCpjgr_2lvIzeekqw&s=10"
+    },
+    {
+      "title": "Dasnya sport ",
+      "name": "Dasnya sport ",
+      "stream_url": "http://77.0055.info/live/mh13928/shp5262782/212844.ts",
+      "url": "http://77.0055.info/live/mh13928/shp5262782/212844.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07CZUTYIqxj7ayUzKallV6wzyOZ6n_w8h7ALDWNMxEA&s=10"
     },
     {
       "title": "LD SPORT ",
