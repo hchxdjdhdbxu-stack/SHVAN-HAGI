@@ -1283,6 +1283,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5180.png?ts=1791884483155"
     },
     {
+      "title": "CCTV",
+      "name": "CCTV",
+      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
+    },
+    {
       "title": "Alkass 3",
       "name": "Alkass 3",
       "stream_url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
@@ -1303,17 +1314,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
-    },
-    {
-      "title": "CCTV",
-      "name": "CCTV",
-      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
     },
     {
       "title": "SPORT",
