@@ -1338,17 +1338,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
     },
     {
-      "title": "Bin sport 1 SD",
-      "name": "Bin sport 1 SD",
-      "stream_url": "http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/677021.ts",
-      "url": "http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/677021.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "BIN SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17724946.png?v=3"
-    },
-    {
       "title": "Bein sport ",
       "name": "Bein sport ",
       "stream_url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
@@ -1358,6 +1347,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": ""
+    },
+    {
+      "title": "Bin sport 1 SD",
+      "name": "Bin sport 1 SD",
+      "stream_url": "http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/677021.ts",
+      "url": "http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/677021.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "BIN SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17724946.png?v=3"
     },
     {
       "title": "Bin sport 2 SD",
