@@ -1294,17 +1294,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
     },
     {
-      "title": "Alwan sport 4",
-      "name": "Alwan sport 4",
-      "stream_url": "https://blcco.linkip.org/live/3458_.m3u8",
-      "url": "https://blcco.linkip.org/live/3458_.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5186.png?ts=1791884728547"
-    },
-    {
       "title": "شاهد sport 2",
       "name": "شاهد sport 2",
       "stream_url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
@@ -1589,6 +1578,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17752703.png?v=3"
+    },
+    {
+      "title": "Alwan sport 4",
+      "name": "Alwan sport 4",
+      "stream_url": "https://blcco.linkip.org/live/3458_.m3u8",
+      "url": "https://blcco.linkip.org/live/3458_.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ALWAN SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5186.png?ts=1791884728547"
     },
     {
       "title": "Alwan sport 1",
