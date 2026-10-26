@@ -1261,6 +1261,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105733.png?v=1"
     },
     {
+      "title": "CCTV",
+      "name": "CCTV",
+      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
+    },
+    {
       "title": "Alkass 1",
       "name": "Alkass 1",
       "stream_url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
@@ -1272,6 +1283,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
+      "title": "SPORT",
+      "name": "SPORT",
+      "stream_url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
+    },
+    {
       "title": "Alkass 2",
       "name": "Alkass 2",
       "stream_url": "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
@@ -1281,17 +1303,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5180.png?ts=1791884483155"
-    },
-    {
-      "title": "CCTV",
-      "name": "CCTV",
-      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
     },
     {
       "title": "Alkass 3",
@@ -1314,17 +1325,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
-    },
-    {
-      "title": "SPORT",
-      "name": "SPORT",
-      "stream_url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
-      "url": "http://nocable.cc:8080/live/zDRG05/407301/10454.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
     },
     {
       "title": "Realmadrid TV",
