@@ -887,6 +887,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107896.png?v=1"
     },
     {
+      "title": "MMN DRAMA",
+      "name": "MMN DRAMA",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737281.png?v=4"
+    },
+    {
       "title": "NEXT",
       "name": "NEXT",
       "stream_url": "http://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
@@ -918,17 +929,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737559.png?v=3"
-    },
-    {
-      "title": "MMN DRAMA",
-      "name": "MMN DRAMA",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737281.png?v=4"
     },
     {
       "title": "MMN DRAMA",
