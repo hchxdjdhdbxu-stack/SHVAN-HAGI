@@ -205,17 +205,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
     },
     {
-      "title": "Dasnya tv",
-      "name": "Dasnya tv",
-      "stream_url": "http://dana4kpro.com:8080/Kabeera00/f520ec5gf/392763",
-      "url": "http://dana4kpro.com:8080/Kabeera00/f520ec5gf/392763",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPQLU5Xcl221YAOX0ltkE2tNgX8XTaTynfKl-5WK4_w&s"
-    },
-    {
       "title": "Duhok Movies",
       "name": "Duhok Movies",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
@@ -225,6 +214,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://files.cdn-files-a.com/uploads/278563/400_6a42783b45b0e.png"
+    },
+    {
+      "title": "Dasnya tv",
+      "name": "Dasnya tv",
+      "stream_url": "http://dana4kpro.com:8080/Kabeera00/f520ec5gf/392763",
+      "url": "http://dana4kpro.com:8080/Kabeera00/f520ec5gf/392763",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPQLU5Xcl221YAOX0ltkE2tNgX8XTaTynfKl-5WK4_w&s"
     },
     {
       "title": "PÊŞMERGE TV",
