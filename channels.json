@@ -601,6 +601,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
     },
     {
+      "title": "AVAR TV",
+      "name": "AVAR TV",
+      "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
+      "url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
+    },
+    {
       "title": "RANYA CITY",
       "name": "RANYA CITY",
       "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
@@ -654,17 +665,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17666475.png?v=2"
-    },
-    {
-      "title": "AVAR TV",
-      "name": "AVAR TV",
-      "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
-      "url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
       "title": "NEWLINE MOVIES ",
