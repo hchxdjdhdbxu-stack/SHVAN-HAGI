@@ -1074,6 +1074,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kenQgFVWca2vT2hvVnm3hZMbPc4l5Sr1PqOpxUDdtkzI0IvfFw49EtM&s"
     },
     {
+      "title": "KURDANA TV",
+      "name": "KURDANA TV",
+      "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/147422.ts",
+      "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/147422.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32NgzcFNew5CpHfxK_5ITuz9Y6glQ-_167JCjUz_OAkdglicnLmN68Yo&s"
+    },
+    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://silka.m3um9xplus.org:2052/live/21116253178258/14909458224355/602828.ts",
