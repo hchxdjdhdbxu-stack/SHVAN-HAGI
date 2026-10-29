@@ -876,6 +876,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
     },
     {
+      "title": "MMN SHOW",
+      "name": "MMN SHOW",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737280.png?v=4"
+    },
+    {
       "title": "ZAVAR tv",
       "name": "ZAVAR tv",
       "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
@@ -896,17 +907,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737559.png?v=3"
-    },
-    {
-      "title": "MMN SHOW",
-      "name": "MMN SHOW",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737280.png?v=4"
     },
     {
       "title": "MMN CLIP",
