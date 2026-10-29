@@ -579,17 +579,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17664926.png?v=4"
     },
     {
-      "title": "RANYA CITY",
-      "name": "RANYA CITY",
-      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "title": "Niga movies ",
       "name": "Niga movies ",
       "stream_url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212774.ts",
@@ -599,6 +588,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfor1DyAWkurjNztEGUTZ0VZuvd067lnWefh3GYUd-2g&s=10"
+    },
+    {
+      "title": "RANYA CITY",
+      "name": "RANYA CITY",
+      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "title": "Bask",
