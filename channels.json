@@ -777,6 +777,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17656498.png?v=12"
     },
     {
+      "title": "AVA series",
+      "name": "AVA series",
+      "stream_url": "http://avaserieshls.wns.live/hls/stream.m3u8",
+      "url": "http://avaserieshls.wns.live/hls/stream.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737274.png?v=4"
+    },
+    {
       "title": "Kurd cinema ",
       "name": "Kurd cinema ",
       "stream_url": "http://12k-service.org/live/Hamid_342690/EIJIT6NP/171877.ts",
@@ -841,17 +852,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737559.png?v=3"
-    },
-    {
-      "title": "AVA series",
-      "name": "AVA series",
-      "stream_url": "http://avaserieshls.wns.live/hls/stream.m3u8",
-      "url": "http://avaserieshls.wns.live/hls/stream.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737274.png?v=4"
     },
     {
       "title": "BNAR HD",
