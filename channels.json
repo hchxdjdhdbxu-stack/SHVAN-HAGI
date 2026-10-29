@@ -667,17 +667,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737224.png?v=2"
     },
     {
-      "title": "Bask",
-      "name": "Bask",
-      "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
-      "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107896.png?v=1"
-    },
-    {
       "title": "NEWLINE Bollywood ",
       "name": "NEWLINE Bollywood ",
       "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
@@ -687,6 +676,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737225.png?v=2"
+    },
+    {
+      "title": "Bask",
+      "name": "Bask",
+      "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
+      "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107896.png?v=1"
     },
     {
       "title": "NEXT",
