@@ -612,6 +612,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5dI2ThercHfhk_KCjQgo3y-UP4T1DmVKeC318bOCSD7c0v1GoVuWkQM&s=10"
     },
     {
+      "title": "BNAR Movies",
+      "name": "BNAR Movies",
+      "stream_url": "https://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "url": "https://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCoS4tR5ibViW17NSaSUnfuVY9p2N_Mgxjs6_7yKF20z3UwOBHqsrueQBj&s=10"
+    },
+    {
       "title": "SOZ TV",
       "name": "SOZ TV",
       "stream_url": "http://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
@@ -632,17 +643,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
-    },
-    {
-      "title": "BNAR Movies",
-      "name": "BNAR Movies",
-      "stream_url": "https://cdn.karwan.tv/bnar-movies/index.m3u8",
-      "url": "https://cdn.karwan.tv/bnar-movies/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCoS4tR5ibViW17NSaSUnfuVY9p2N_Mgxjs6_7yKF20z3UwOBHqsrueQBj&s=10"
     },
     {
       "title": "AVAR TV",
@@ -865,6 +865,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
     },
     {
+      "title": "MMN QURAN ",
+      "name": "MMN QURAN ",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737279.png?v=4"
+    },
+    {
       "title": "ZAVAR tv",
       "name": "ZAVAR tv",
       "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
@@ -885,17 +896,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737559.png?v=3"
-    },
-    {
-      "title": "MMN QURAN ",
-      "name": "MMN QURAN ",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737279.png?v=4"
     },
     {
       "title": "MMN SHOW",
