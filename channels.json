@@ -601,6 +601,17 @@
       "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+      "title": "NRT2",
+      "name": "NRT2",
+      "stream_url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701680.ts",
+      "url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701680.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630251.png?v=2"
+    },
+    {
       "title": "Bask",
       "name": "Bask",
       "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
@@ -621,17 +632,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
-    },
-    {
-      "title": "NRT2",
-      "name": "NRT2",
-      "stream_url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701680.ts",
-      "url": "http://tv.live-python.com/live/dyfnrgbj/nyajfna/701680.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630251.png?v=2"
     },
     {
       "title": "NRT4",
