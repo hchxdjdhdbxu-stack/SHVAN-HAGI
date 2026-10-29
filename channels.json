@@ -843,6 +843,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17652250.png?v=3"
     },
     {
+      "title": "BNAR ACTION TV",
+      "name": "BNAR ACTION TV",
+      "stream_url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
+      "url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn6nTWK91ni_hN0U72Sqb_WJcdsGBSD83and4qakKAHjS2OwDpBJJc3M&s=10"
+    },
+    {
       "title": "RENG  DOCUMENTARY ",
       "name": "RENG  DOCUMENTARY ",
       "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802108&extension=m3u8",
@@ -863,17 +874,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5dI2ThercHfhk_KCjQgo3y-UP4T1DmVKeC318bOCSD7c0v1GoVuWkQM&s=10"
-    },
-    {
-      "title": "BNAR ACTION TV",
-      "name": "BNAR ACTION TV",
-      "stream_url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
-      "url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn6nTWK91ni_hN0U72Sqb_WJcdsGBSD83and4qakKAHjS2OwDpBJJc3M&s=10"
     },
     {
       "title": "BNAR Movies",
