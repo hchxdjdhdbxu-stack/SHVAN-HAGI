@@ -548,8 +548,8 @@
     {
       "title": "Bask",
       "name": "Bask",
-      "stream_url": "http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8",
-      "url": "http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8",
+      "stream_url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
+      "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/180310.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
