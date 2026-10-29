@@ -590,17 +590,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfor1DyAWkurjNztEGUTZ0VZuvd067lnWefh3GYUd-2g&s=10"
     },
     {
-      "title": "RANYA CITY",
-      "name": "RANYA CITY",
-      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "title": "Soran ",
       "name": "Soran ",
       "stream_url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
@@ -610,6 +599,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNOaU-xn67XoVFmpUTcBzf3ICh99qzHr7gtLCIOcqiQ"
+    },
+    {
+      "title": "RANYA CITY",
+      "name": "RANYA CITY",
+      "stream_url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://yt3.googleusercontent.com/jqtR8ojxyoOCfPdHdOxcgPhGmFG5kEuFMXzPrvJqfZ1Ae6VifXxjSlh4FKwGG6gwN-K-PzXS5A=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "title": "NRT2",
@@ -711,6 +711,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
     },
     {
+      "title": "AVAR TV",
+      "name": "AVAR TV",
+      "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
+      "url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
+    },
+    {
       "title": "Infinity tv",
       "name": "Infinity tv",
       "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
@@ -731,17 +742,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17652250.png?v=3"
-    },
-    {
-      "title": "AVAR TV",
-      "name": "AVAR TV",
-      "stream_url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
-      "url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOe2p4bxb__Ui2rcu1nLVYvCTU6wvX5IXjdqgIGGpNQ&s=10"
     },
     {
       "title": "Astera culture",
