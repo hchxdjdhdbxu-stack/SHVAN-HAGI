@@ -1,6 +1,6 @@
 {
   "settings": {
-    "activation": false,
+    "activation": true,
     "update": false,
     "vpn": true,
     "update_url": ""
