@@ -1371,17 +1371,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929422.png?v=1"
     },
     {
-      "title": "Alkass 4",
-      "name": "Alkass 4",
-      "stream_url": "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
-      "url": "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
-    },
-    {
       "title": "Bein sport ",
       "name": "Bein sport ",
       "stream_url": "https://cp11.adabmedia.com/hls2/bein1.m3u8",
@@ -1589,6 +1578,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17752703.png?v=3"
+    },
+    {
+      "title": "Alkass 4",
+      "name": "Alkass 4",
+      "stream_url": "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
+      "url": "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ALWAN SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
     },
     {
       "title": "Alkass 2",
