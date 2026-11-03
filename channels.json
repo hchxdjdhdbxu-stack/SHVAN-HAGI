@@ -2757,17 +2757,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "Alkass 3",
-      "name": "Alkass 3",
-      "stream_url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
-      "url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5181.png?ts=1791884496387"
-    },
-    {
       "title": "Alkass 2",
       "name": "Alkass 2",
       "stream_url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652412?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
@@ -2779,15 +2768,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5180.png?ts=1791884483155"
     },
     {
-      "title": "THAMANIYA 1",
-      "name": "THAMANIYA 1",
-      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
-      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
+      "title": "Alkass 3",
+      "name": "Alkass 3",
+      "stream_url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
+      "url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
       "referer": "",
       "drm_key": "",
-      "user_agent": "com.nesr/1.3 (Linux;Android 16) AndroidXMedia3/1.1.1",
+      "user_agent": "",
       "category": "ARABIC SPORT",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5181.png?ts=1791884496387"
     },
     {
       "title": "Alkass 4",
@@ -2799,6 +2788,17 @@
       "user_agent": "",
       "category": "ARABIC SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5182.png?ts=1791884511639"
+    },
+    {
+      "title": "THAMANIYA 1",
+      "name": "THAMANIYA 1",
+      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
+      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "com.nesr/1.3 (Linux;Android 16) AndroidXMedia3/1.1.1",
+      "category": "ARABIC SPORT",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
       "title": "THAMANIYA 2",
