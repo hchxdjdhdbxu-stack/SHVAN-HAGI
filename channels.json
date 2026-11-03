@@ -1316,17 +1316,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105733.png?v=1"
     },
     {
-      "title": "CCTV",
-      "name": "CCTV",
-      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
-    },
-    {
       "title": "ورزش زنده 9 HD",
       "name": "ورزش زنده 9 HD",
       "stream_url": "https://cp11.adabmedia.com/hls2/varzeshtest.m3u8",
@@ -1336,6 +1325,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwWSzvJX2saBNsyHPEgQc7mbZDkE4_pIyklA5Jl5kLA&s=10"
+    },
+    {
+      "title": "CCTV",
+      "name": "CCTV",
+      "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105734.png?v=1"
     },
     {
       "title": "SPORT",
