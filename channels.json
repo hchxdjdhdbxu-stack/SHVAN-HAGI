@@ -1613,17 +1613,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "Alwan sport 1",
-      "name": "Alwan sport 1",
-      "stream_url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56755",
-      "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56755",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ALWAN SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5186.png?ts=1791884728547"
-    },
-    {
       "title": "Alwan sport 2",
       "name": "Alwan sport 2",
       "stream_url": "https://blcco.linkip.org/live/3460_.m3u8",
@@ -2865,6 +2854,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "Alwan sport 1",
+      "name": "Alwan sport 1",
+      "stream_url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56755",
+      "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56755",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5186.png?ts=1791884728547"
     },
     {
       "title": "Alwan sport 1",
