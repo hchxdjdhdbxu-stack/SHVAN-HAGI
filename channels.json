@@ -1129,6 +1129,17 @@
       "logo": ""
     },
     {
+      "title": "IRAQIA KURDÎ",
+      "name": "IRAQIA KURDÎ",
+      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
+    },
+    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://silka.m3um9xplus.org:2052/live/21116253178258/14909458224355/602828.ts",
@@ -1886,17 +1897,6 @@
       "user_agent": "",
       "category": "ARABIC CHANALL",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904747.png?v=1"
-    },
-    {
-      "title": "IRAQIA KURDÎ",
-      "name": "IRAQIA KURDÎ",
-      "stream_url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
       "title": "SHOW TV",
