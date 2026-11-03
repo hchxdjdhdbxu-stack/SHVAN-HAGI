@@ -1613,17 +1613,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "STARZ PLAY 2",
-      "name": "STARZ PLAY 2",
-      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
-      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ALWAN SPORT",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
-    },
-    {
       "title": "SHOW TV",
       "name": "SHOW TV",
       "stream_url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8",
@@ -2788,6 +2777,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "STARZ PLAY 2",
+      "name": "STARZ PLAY 2",
+      "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
+      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC SPORT",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
       "title": "STARZ PLAY 3",
