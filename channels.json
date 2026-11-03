@@ -1327,6 +1327,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwWSzvJX2saBNsyHPEgQc7mbZDkE4_pIyklA5Jl5kLA&s=10"
     },
     {
+      "title": "TV3 زنده",
+      "name": "TV3 زنده",
+      "stream_url": "https://cp11.adabmedia.com/hls2/tv3test.m3u8",
+      "url": "https://cp11.adabmedia.com/hls2/tv3test.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmN5SZY4ESgYfg7BSrV3_lR0o0b1SiYyNcrRR1kGePw&s=10"
+    },
+    {
       "title": "CCTV",
       "name": "CCTV",
       "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
@@ -1347,17 +1358,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105764.png?v=1"
-    },
-    {
-      "title": "TV3 زنده",
-      "name": "TV3 زنده",
-      "stream_url": "https://cp11.adabmedia.com/hls2/tv3test.m3u8",
-      "url": "https://cp11.adabmedia.com/hls2/tv3test.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmN5SZY4ESgYfg7BSrV3_lR0o0b1SiYyNcrRR1kGePw&s=10"
     },
     {
       "title": "Bein sport ",
