@@ -1261,17 +1261,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGpezcEFAbONXmaqZnTCVJZOKgb3I44viWlE7l4js4Q&s"
     },
     {
-      "title": "شاهد sport 2",
-      "name": "شاهد sport 2",
-      "stream_url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
-      "url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
-    },
-    {
       "title": "Persiana sport 2",
       "name": "Persiana sport 2",
       "stream_url": "http://pepsi.abntv.live/hls/4spstream.m3u8?checkedby:SHVAN",
@@ -1523,6 +1512,17 @@
       "user_agent": "",
       "category": "BIN SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17752703.png?v=3"
+    },
+    {
+      "title": "شاهد sport 2",
+      "name": "شاهد sport 2",
+      "stream_url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ALWAN SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
     },
     {
       "title": "Persiana sport 1",
