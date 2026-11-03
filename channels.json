@@ -1613,17 +1613,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "Alwan sport 5",
-      "name": "Alwan sport 5",
-      "stream_url": "https://blcco.linkip.org/live/3457_.m3u8",
-      "url": "https://blcco.linkip.org/live/3457_.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ALWAN SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17694754.png?v=2"
-    },
-    {
       "title": "STARZ PLAY 2",
       "name": "STARZ PLAY 2",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
@@ -2810,6 +2799,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "Alwan sport 5",
+      "name": "Alwan sport 5",
+      "stream_url": "https://blcco.linkip.org/live/3457_.m3u8",
+      "url": "https://blcco.linkip.org/live/3457_.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17694754.png?v=2"
     },
     {
       "title": "STARZ PLAY 1",
