@@ -1536,17 +1536,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
-      "title": "شاهد sport 1",
-      "name": "شاهد sport 1",
-      "stream_url": "http://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
-      "url": "http://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ALWAN SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
-    },
-    {
       "title": "THAMANIYA 1",
       "name": "THAMANIYA 1",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad",
@@ -2766,6 +2755,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "شاهد sport 1",
+      "name": "شاهد sport 1",
+      "stream_url": "http://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
+      "url": "http://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd?|drmScheme=clearkey&drmLicense=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "ARABIC SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
     },
     {
       "title": "شاهد sport 2",
