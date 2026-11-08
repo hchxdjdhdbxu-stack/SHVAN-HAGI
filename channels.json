@@ -1373,8 +1373,8 @@
     {
       "title": "Bin sport 2 SD",
       "name": "Bin sport 2 SD",
-      "stream_url": "http://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8",
-      "url": "http://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8",
+      "stream_url": "http://bein2.houdatv.workers.dev/live.m3u8?key=68452",
+      "url": "http://bein2.houdatv.workers.dev/live.m3u8?key=68452",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
