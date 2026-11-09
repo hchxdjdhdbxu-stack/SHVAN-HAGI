@@ -271,6 +271,17 @@
       "logo": ""
     },
     {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
       "title": "Dalal tv",
       "name": "Dalal tv",
       "stream_url": "http://jaasup.xyz/live/3284797398781747/C740A8DCD24C/805755.ts",
@@ -313,17 +324,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616449.png?v=3"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "Befrin TV",
