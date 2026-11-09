@@ -216,17 +216,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1xHDbUySg5nmTYu-SP0RrpNDvle9bA1WvLrAXWr4EA&s=10"
     },
     {
-      "title": "Duhok Movies",
-      "name": "Duhok Movies",
-      "stream_url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
-      "url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://files.cdn-files-a.com/uploads/278563/400_6a42783b45b0e.png"
-    },
-    {
       "title": "Duhok",
       "name": "Duhok",
       "stream_url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
@@ -236,6 +225,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
+    },
+    {
+      "title": "Duhok Movies",
+      "name": "Duhok Movies",
+      "stream_url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://files.cdn-files-a.com/uploads/278563/400_6a42783b45b0e.png"
     },
     {
       "title": "Dasnya tv",
