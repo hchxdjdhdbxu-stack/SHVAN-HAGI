@@ -128,6 +128,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgeYim6sqUfvVxIZJutW_jEyCrjJ7QMA5UkjrSFj9cQ"
     },
     {
+      "title": "Payam",
+      "name": "Payam",
+      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NUCHA TV",
       "name": "NUCHA TV",
       "stream_url": "http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
@@ -148,17 +159,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107816.png?v=1"
-    },
-    {
-      "title": "Payam",
-      "name": "Payam",
-      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "KURDMAX",
