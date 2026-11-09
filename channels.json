@@ -1140,6 +1140,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
+      "title": "Al arabiya english",
+      "name": "Al arabiya english",
+      "stream_url": "https://live.alarabiya.net/alarabiapublish/english/chunks_dvr.m3u8",
+      "url": "https://live.alarabiya.net/alarabiapublish/english/chunks_dvr.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://007799.link/live/373887646/83307738037/212838.ts",
