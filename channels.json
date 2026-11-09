@@ -788,6 +788,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737558.png?v=3"
     },
     {
+      "title": "Payam",
+      "name": "Payam",
+      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Infinity tv",
       "name": "Infinity tv",
       "stream_url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
@@ -808,17 +819,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17656498.png?v=12"
-    },
-    {
-      "title": "Payam",
-      "name": "Payam",
-      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
     },
     {
       "title": "Kurd cinema ",
@@ -843,6 +843,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737272.png?v=3"
     },
     {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
       "title": "AVA series",
       "name": "AVA series",
       "stream_url": "http://avaserieshls.wns.live/hls/stream.m3u8",
@@ -863,17 +874,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737279.png?v=4"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "MMN SHOW",
