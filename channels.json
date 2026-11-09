@@ -733,6 +733,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737224.png?v=2"
     },
     {
+      "title": "Payam",
+      "name": "Payam",
+      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "NEWLINE Bollywood ",
       "name": "NEWLINE Bollywood ",
       "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10449.ts",
@@ -755,17 +766,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFc24tTrfcXj1KlblOQgRzdNvM4afC_LNOTYzvt47opw&s=10"
     },
     {
-      "title": "Payam",
-      "name": "Payam",
-      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
       "title": "Astera show",
       "name": "Astera show",
       "stream_url": "http://m3u.pro:88/live/tbpxZUpgPRFvO3e/Z2zKUYjQ316hvHc/190025.ts",
@@ -775,6 +775,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17664944.png?v=6"
+    },
+    {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "Astera family ",
@@ -797,17 +808,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737558.png?v=3"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "Infinity tv",
