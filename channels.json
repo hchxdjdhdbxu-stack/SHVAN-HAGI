@@ -2975,6 +2975,17 @@
       "user_agent": "",
       "category": "الاخبار NEWS",
       "logo": ""
+    },
+    {
+      "title": "VD24",
+      "name": "VD24",
+      "stream_url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+      "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
     }
   ]
 }
