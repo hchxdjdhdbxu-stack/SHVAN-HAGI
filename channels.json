@@ -1173,6 +1173,17 @@
       "logo": ""
     },
     {
+      "title": "Cnbc",
+      "name": "Cnbc",
+      "stream_url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+      "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://007799.link/live/373887646/83307738037/212838.ts",
