@@ -359,6 +359,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630255.png?v=4"
     },
     {
+      "title": "Payam",
+      "name": "Payam",
+      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": ""
+    },
+    {
       "title": "BINAR TV",
       "name": "BINAR TV",
       "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
@@ -392,17 +403,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922676.png?v=1"
     },
     {
-      "title": "Payam",
-      "name": "Payam",
-      "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
       "title": "Euro kurd",
       "name": "Euro kurd",
       "stream_url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -412,6 +412,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922675.png?v=1"
+    },
+    {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "KANI",
@@ -434,17 +445,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "Mix kurd ",
