@@ -194,17 +194,6 @@
       "logo": ""
     },
     {
-      "title": "KURDMAX SHOW SORANI",
-      "name": "KURDMAX SHOW SORANI",
-      "stream_url": "http://jaasup.xyz:80/live/3284797398781747/C740A8DCD24C/111636.ts",
-      "url": "http://jaasup.xyz:80/live/3284797398781747/C740A8DCD24C/111636.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1xHDbUySg5nmTYu-SP0RrpNDvle9bA1WvLrAXWr4EA&s=10"
-    },
-    {
       "title": "Kirkuk tv",
       "name": "Kirkuk tv",
       "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
@@ -214,6 +203,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
+      "title": "KURDMAX SHOW SORANI",
+      "name": "KURDMAX SHOW SORANI",
+      "stream_url": "http://jaasup.xyz:80/live/3284797398781747/C740A8DCD24C/111636.ts",
+      "url": "http://jaasup.xyz:80/live/3284797398781747/C740A8DCD24C/111636.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1xHDbUySg5nmTYu-SP0RrpNDvle9bA1WvLrAXWr4EA&s=10"
     },
     {
       "title": "Duhok Movies",
