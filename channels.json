@@ -1140,17 +1140,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
-      "title": "Dijlah",
-      "name": "Dijlah",
-      "stream_url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-      "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": ""
-    },
-    {
       "title": "Cnbc",
       "name": "Cnbc",
       "stream_url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
@@ -2931,6 +2920,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "Dijlah",
+      "name": "Dijlah",
+      "stream_url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+      "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
     },
     {
       "title": "Alsharqiya",
