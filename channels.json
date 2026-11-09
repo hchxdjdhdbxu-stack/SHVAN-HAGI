@@ -986,17 +986,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630248.png?v=2"
     },
     {
-      "title": "ZAVAR tv",
-      "name": "ZAVAR tv",
-      "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
-      "url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17652250.png?v=3"
-    },
-    {
       "title": "Payam",
       "name": "Payam",
       "stream_url": "https://ameditv.ai.studio/api/proxy?url=https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
@@ -1008,6 +997,17 @@
       "logo": ""
     },
     {
+      "title": "ZAVAR tv",
+      "name": "ZAVAR tv",
+      "stream_url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
+      "url": "http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17652250.png?v=3"
+    },
+    {
       "title": "RENG  DOCUMENTARY ",
       "name": "RENG  DOCUMENTARY ",
       "stream_url": "http://22445522.info/live/po07T6DaiE/Hrvdbfuev/212784.ts",
@@ -1017,6 +1017,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737559.png?v=3"
+    },
+    {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "GK PLUS",
@@ -1039,17 +1050,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/9766.png?ts=1792697505210"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "SHAR TV",
