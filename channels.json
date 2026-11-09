@@ -172,6 +172,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjiAZ1NMQu4vrPIV5Twd9DMtXnQ_GgJvD4pRbmj4J3rCv4DvMNdefp9EX"
     },
     {
+      "title": "Kirkuk tv",
+      "name": "Kirkuk tv",
+      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
       "title": "Kurdmax sorani",
       "name": "Kurdmax sorani",
       "stream_url": "https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8",
@@ -192,17 +203,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1xHDbUySg5nmTYu-SP0RrpNDvle9bA1WvLrAXWr4EA&s=10"
-    },
-    {
-      "title": "Kirkuk tv",
-      "name": "Kirkuk tv",
-      "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
     },
     {
       "title": "KURDMAX SHOW SORANI",
