@@ -216,17 +216,6 @@
       "logo": "https://files.cdn-files-a.com/uploads/278563/400_6a42783b45b0e.png"
     },
     {
-      "title": "Duhok",
-      "name": "Duhok",
-      "stream_url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
-      "url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
-    },
-    {
       "title": "Kirkuk tv",
       "name": "Kirkuk tv",
       "stream_url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
@@ -236,6 +225,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
+      "title": "Duhok",
+      "name": "Duhok",
+      "stream_url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
+      "url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
     },
     {
       "title": "Dasnya tv",
