@@ -205,17 +205,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1xHDbUySg5nmTYu-SP0RrpNDvle9bA1WvLrAXWr4EA&s=10"
     },
     {
-      "title": "Duhok",
-      "name": "Duhok",
-      "stream_url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
-      "url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
-    },
-    {
       "title": "Duhok Movies",
       "name": "Duhok Movies",
       "stream_url": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/playlist.m3u8",
@@ -227,15 +216,15 @@
       "logo": "https://files.cdn-files-a.com/uploads/278563/400_6a42783b45b0e.png"
     },
     {
-      "title": "Dasnya tv",
-      "name": "Dasnya tv",
-      "stream_url": "http://line.bisko-tv.com/live/KS9Y4X/DAU7S6/1667800.ts",
-      "url": "http://line.bisko-tv.com/live/KS9Y4X/DAU7S6/1667800.ts",
+      "title": "Duhok",
+      "name": "Duhok",
+      "stream_url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
+      "url": "http://cf.egg-s10.xyz/live/f7622b9dd016/0998a344f2/1310890.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPQLU5Xcl221YAOX0ltkE2tNgX8XTaTynfKl-5WK4_w&s"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7f48aLO3Jy5kHyB1rAT23Levdw5XdaQEkM4TmR9fbQg&s"
     },
     {
       "title": "Kirkuk tv",
@@ -247,6 +236,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEIwpupD_crbrApKkQ5urVSHzqFR3fD-kCkU6_lZaUQ&s=10"
+    },
+    {
+      "title": "Dasnya tv",
+      "name": "Dasnya tv",
+      "stream_url": "http://line.bisko-tv.com/live/KS9Y4X/DAU7S6/1667800.ts",
+      "url": "http://line.bisko-tv.com/live/KS9Y4X/DAU7S6/1667800.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPQLU5Xcl221YAOX0ltkE2tNgX8XTaTynfKl-5WK4_w&s"
     },
     {
       "title": "PÊŞMERGE TV",
