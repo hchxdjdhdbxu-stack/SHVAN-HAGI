@@ -1140,17 +1140,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzhdb2ryVs7lGmwOwLYYq3MSz6K9fo-TFI6ljRxK1vw&s=10"
     },
     {
-      "title": "ZAXO SPORT ",
-      "name": "ZAXO SPORT ",
-      "stream_url": "http://live.8kultra.org/Simobenesano/fb41a3244/701748",
-      "url": "http://live.8kultra.org/Simobenesano/fb41a3244/701748",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUnE3bgisztMWkooA67I3CvoLfRCpjgr_2lvIzeekqw&s=10"
-    },
-    {
       "title": "Duhok sport ",
       "name": "Duhok sport ",
       "stream_url": "http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/358226.ts",
@@ -1160,6 +1149,17 @@
       "user_agent": "SmartIPTV",
       "category": "SPORTS",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17872692.png?v=3"
+    },
+    {
+      "title": "ZAXO SPORT ",
+      "name": "ZAXO SPORT ",
+      "stream_url": "http://live.8kultra.org/Simobenesano/fb41a3244/701748",
+      "url": "http://live.8kultra.org/Simobenesano/fb41a3244/701748",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUnE3bgisztMWkooA67I3CvoLfRCpjgr_2lvIzeekqw&s=10"
     },
     {
       "title": "ZAXO SPORT ",
