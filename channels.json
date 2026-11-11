@@ -2922,10 +2922,10 @@
       "logo": ""
     },
     {
-      "title": "Alghadeer",
-      "name": "Alghadeer",
-      "stream_url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
-      "url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
+      "title": "الجزيرة ",
+      "name": "الجزيرة ",
+      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -2933,10 +2933,10 @@
       "logo": ""
     },
     {
-      "title": "الجزيرة ",
-      "name": "الجزيرة ",
-      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "title": "Alghadeer",
+      "name": "Alghadeer",
+      "stream_url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
+      "url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
