@@ -2867,10 +2867,10 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
     },
     {
-      "title": "F24 arabi",
-      "name": "F24 arabi",
-      "stream_url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-      "url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+      "title": "الحدث alarabiya",
+      "name": "الحدث alarabiya",
+      "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -2878,10 +2878,10 @@
       "logo": ""
     },
     {
-      "title": "الحدث alarabiya",
-      "name": "الحدث alarabiya",
-      "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
-      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+      "title": "F24 arabi",
+      "name": "F24 arabi",
+      "stream_url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+      "url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
