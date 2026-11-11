@@ -2900,6 +2900,17 @@
       "logo": ""
     },
     {
+      "title": "الجزيرة ",
+      "name": "الجزيرة ",
+      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "Dijlah",
       "name": "Dijlah",
       "stream_url": "https://ghaasiflu.online/Dijlah/index.m3u8",
@@ -2915,17 +2926,6 @@
       "name": "Alsharqiya",
       "stream_url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
       "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "الجزيرة ",
-      "name": "الجزيرة ",
-      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
