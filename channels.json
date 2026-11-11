@@ -2900,6 +2900,17 @@
       "logo": ""
     },
     {
+      "title": "Al arabya",
+      "name": "Al arabya",
+      "stream_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "alaraby",
       "name": "alaraby",
       "stream_url": "http://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8?orig=arabic&amp;",
@@ -2915,17 +2926,6 @@
       "name": "Alsharqiya",
       "stream_url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
       "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "Al arabya",
-      "name": "Al arabya",
-      "stream_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
