@@ -843,6 +843,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737557.png?v=3"
     },
     {
+      "title": "MMN Documentary",
+      "name": "MMN Documentary",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17804151.png?v=5"
+    },
+    {
       "title": "Astera movice",
       "name": "Astera movice",
       "stream_url": "http://deltafetch4k.org:2052/live/97305210884105/18058823900707/601513.m3u8",
@@ -874,17 +885,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17656498.png?v=12"
-    },
-    {
-      "title": "MMN Documentary",
-      "name": "MMN Documentary",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17804151.png?v=5"
     },
     {
       "title": "Kurd cinema ",
