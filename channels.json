@@ -2988,17 +2988,6 @@
       "logo": ""
     },
     {
-      "title": "برنامج Al arabiya ",
-      "name": "برنامج Al arabiya ",
-      "stream_url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_source/chunks.m3u8",
-      "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_source/chunks.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
       "title": "Al hiwar",
       "name": "Al hiwar",
       "stream_url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3128000.m3u8",
