@@ -1989,8 +1989,8 @@
     {
       "title": "ATV",
       "name": "ATV",
-      "stream_url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-      "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+      "stream_url": "http://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/Atv.m3u8",
+      "url": "http://raw.githubusercontent.com/stvplus1/Turkish/refs/heads/main/Atv.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
