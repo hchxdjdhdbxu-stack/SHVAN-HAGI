@@ -3074,6 +3074,17 @@
       "user_agent": "",
       "category": "الاخبار NEWS",
       "logo": ""
+    },
+    {
+      "title": "عربي BBC",
+      "name": "عربي BBC",
+      "stream_url": "http://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+      "url": "http://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
     }
   ]
 }
