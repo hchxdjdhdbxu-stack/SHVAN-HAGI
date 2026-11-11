@@ -2878,6 +2878,17 @@
       "logo": ""
     },
     {
+      "title": "الجزيرة ",
+      "name": "الجزيرة ",
+      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "F24 arabi",
       "name": "F24 arabi",
       "stream_url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
@@ -2893,17 +2904,6 @@
       "name": "Cnbc",
       "stream_url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
       "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "الجزيرة ",
-      "name": "الجزيرة ",
-      "stream_url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "url": "http://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -3010,6 +3010,17 @@
       "logo": ""
     },
     {
+      "title": "الجزيرة مباشر",
+      "name": "الجزيرة مباشر",
+      "stream_url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "Asharq",
       "name": "Asharq",
       "stream_url": "http://live-news.asharq.com/asharq.m3u8",
@@ -3025,17 +3036,6 @@
       "name": "TRT ARABI",
       "stream_url": "https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8",
       "url": "https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "الجزيرة مباشر",
-      "name": "الجزيرة مباشر",
-      "stream_url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-      "url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
