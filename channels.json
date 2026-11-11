@@ -304,6 +304,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17616449.png?v=3"
     },
     {
+      "title": "Befrin TV",
+      "name": "Befrin TV",
+      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
+    },
+    {
       "title": "PÊŞMERGE TV",
       "name": "PÊŞMERGE TV",
       "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
@@ -326,15 +337,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922672.png?v=1"
     },
     {
-      "title": "Befrin TV",
-      "name": "Befrin TV",
-      "stream_url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
-      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "title": "Niroj HD",
+      "name": "Niroj HD",
+      "stream_url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
+      "url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4i_gTxNFM9kiMfWq7nK8dCdxgyTXedmk6Q"
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
     },
     {
       "title": "DENGE ZELAL",
@@ -346,17 +357,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
-    },
-    {
-      "title": "Niroj HD",
-      "name": "Niroj HD",
-      "stream_url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
-      "url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
     },
     {
       "title": "Mix kurd ",
