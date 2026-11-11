@@ -2900,6 +2900,17 @@
       "logo": ""
     },
     {
+      "title": "الحدث alarabiya",
+      "name": "الحدث alarabiya",
+      "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "Alsharqiya",
       "name": "Alsharqiya",
       "stream_url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
@@ -2915,17 +2926,6 @@
       "name": "Alghadeer",
       "stream_url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
       "url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "الحدث alarabiya",
-      "name": "الحدث alarabiya",
-      "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
-      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
