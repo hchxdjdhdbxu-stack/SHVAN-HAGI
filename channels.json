@@ -788,6 +788,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17666475.png?v=2"
     },
     {
+      "title": "MMN MOVIES",
+      "name": "MMN MOVIES",
+      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17804153.png?v=4"
+    },
+    {
       "title": "NEWLINE MOVIES ",
       "name": "NEWLINE MOVIES ",
       "stream_url": "http://188.72.5.30:8080/live/alsard/555666/10451.ts",
@@ -819,17 +830,6 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17737225.png?v=2"
-    },
-    {
-      "title": "MMN MOVIES",
-      "name": "MMN MOVIES",
-      "stream_url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
-      "url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17804153.png?v=4"
     },
     {
       "title": "Astera culture",
