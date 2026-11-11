@@ -2900,10 +2900,10 @@
       "logo": ""
     },
     {
-      "title": "Alsharqiya",
-      "name": "Alsharqiya",
-      "stream_url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
-      "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+      "title": "alaraby",
+      "name": "alaraby",
+      "stream_url": "http://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8?orig=arabic&amp;",
+      "url": "http://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8?orig=arabic&amp;",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
@@ -2911,10 +2911,10 @@
       "logo": ""
     },
     {
-      "title": "alaraby",
-      "name": "alaraby",
-      "stream_url": "http://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8?orig=arabic&amp;",
-      "url": "http://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8?orig=arabic&amp;",
+      "title": "Alsharqiya",
+      "name": "Alsharqiya",
+      "stream_url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+      "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
