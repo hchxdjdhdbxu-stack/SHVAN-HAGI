@@ -2955,6 +2955,17 @@
       "logo": ""
     },
     {
+      "title": "الجزيرة مباشر",
+      "name": "الجزيرة مباشر",
+      "stream_url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "Al arabiya english",
       "name": "Al arabiya english",
       "stream_url": "https://live.alarabiya.net/alarabiapublish/english/chunks_dvr.m3u8",
@@ -3003,17 +3014,6 @@
       "name": "VD24",
       "stream_url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
       "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "الجزيرة مباشر",
-      "name": "الجزيرة مباشر",
-      "stream_url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
-      "url": "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
