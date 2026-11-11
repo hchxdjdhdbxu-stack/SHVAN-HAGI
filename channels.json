@@ -326,17 +326,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17702036.png?v=13"
     },
     {
-      "title": "PÊŞMERGE TV",
-      "name": "PÊŞMERGE TV",
-      "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
-      "url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17903859.png?v=3"
-    },
-    {
       "title": "DEVER TV",
       "name": "DEVER TV",
       "stream_url": "http://udvwmxiv.qvpng.com:80/live/XXHL6MRP/8AF95M75/98897.ts",
@@ -346,6 +335,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922672.png?v=1"
+    },
+    {
+      "title": "PÊŞMERGE TV",
+      "name": "PÊŞMERGE TV",
+      "stream_url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "url": "http://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "KURD TV",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17903859.png?v=3"
     },
     {
       "title": "DENGE ZELAL",
