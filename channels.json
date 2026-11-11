@@ -2922,6 +2922,17 @@
       "logo": ""
     },
     {
+      "title": "Al arabya",
+      "name": "Al arabya",
+      "stream_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
+    },
+    {
       "title": "F24 arabi",
       "name": "F24 arabi",
       "stream_url": "http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
@@ -2959,17 +2970,6 @@
       "name": "Alghadeer",
       "stream_url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
       "url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "الاخبار NEWS",
-      "logo": ""
-    },
-    {
-      "title": "Al arabya",
-      "name": "Al arabya",
-      "stream_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
