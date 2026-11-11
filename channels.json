@@ -2986,6 +2986,17 @@
       "user_agent": "",
       "category": "الاخبار NEWS",
       "logo": ""
+    },
+    {
+      "title": "Asharq",
+      "name": "Asharq",
+      "stream_url": "http://live-news.asharq.com/asharq.m3u8",
+      "url": "http://live-news.asharq.com/asharq.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "الاخبار NEWS",
+      "logo": ""
     }
   ]
 }
