@@ -1822,17 +1822,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904735.png?v=1"
     },
     {
-      "title": "MBC DRAMA ",
-      "name": "MBC DRAMA ",
-      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
-      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904736.png?v=1"
-    },
-    {
       "title": "الحدث alarabiya",
       "name": "الحدث alarabiya",
       "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
@@ -2997,6 +2986,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "MBC DRAMA ",
+      "name": "MBC DRAMA ",
+      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
+      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_CHENEL",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904736.png?v=1"
     },
     {
       "title": "mbc+دراما",
