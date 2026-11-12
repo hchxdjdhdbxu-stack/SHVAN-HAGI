@@ -1723,17 +1723,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgheq4ql1JPwPJCcqYaXBT9QS9OdgIRdd177laWnVrQ&s"
     },
     {
-      "title": "SHAHID HORROR",
-      "name": "SHAHID HORROR",
-      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
-      "url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRai4A7c-1R1Kfa6fVSa7N1pI4Jfln3S7nXnj7YWiwRfQ&s"
-    },
-    {
       "title": "الحدث alarabiya",
       "name": "الحدث alarabiya",
       "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
@@ -2898,6 +2887,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "SHAHID HORROR",
+      "name": "SHAHID HORROR",
+      "stream_url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+      "url": "http://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_CHENEL",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRai4A7c-1R1Kfa6fVSa7N1pI4Jfln3S7nXnj7YWiwRfQ&s"
     },
     {
       "title": "MBC Action",
