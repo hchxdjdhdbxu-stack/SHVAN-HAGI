@@ -1844,17 +1844,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904737.png?v=1"
     },
     {
-      "title": "MBC العراق",
-      "name": "MBC العراق",
-      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "ARABIC CHANALL",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904738.png?v=1"
-    },
-    {
       "title": "الحدث alarabiya",
       "name": "الحدث alarabiya",
       "stream_url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
@@ -3019,6 +3008,17 @@
       "user_agent": "",
       "category": "RADIO",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6H36_D-qPkH0aR56ejgEh2oIIxyTQpQ7urEdTnLeeg&s=10"
+    },
+    {
+      "title": "MBC العراق",
+      "name": "MBC العراق",
+      "stream_url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "url": "http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_CHENEL",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17904738.png?v=1"
     },
     {
       "title": "MBC MASR USA",
