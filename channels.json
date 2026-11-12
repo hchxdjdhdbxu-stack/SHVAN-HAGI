@@ -1591,17 +1591,6 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5179.png?ts=1791884468416"
     },
     {
-      "title": "شاهد sport 2",
-      "name": "شاهد sport 2",
-      "stream_url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
-      "url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "AR_SPORT",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
-    },
-    {
       "title": "Alkass 2",
       "name": "Alkass 2",
       "stream_url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652412?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
@@ -1611,6 +1600,17 @@
       "user_agent": "",
       "category": "AR_SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5180.png?ts=1791884483155"
+    },
+    {
+      "title": "شاهد sport 2",
+      "name": "شاهد sport 2",
+      "stream_url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "url": "http://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd?|drmScheme=clearkey&drmLicense=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_SPORT",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17929425.png?v=4"
     },
     {
       "title": "Alkass 4",
