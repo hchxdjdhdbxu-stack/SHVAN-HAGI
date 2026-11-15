@@ -436,15 +436,15 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHr7mHO8CvXXuM2vAFz4zRsiePKnuy0GV6pkpN9l09Q&s=10"
     },
     {
-      "title": "BINAR TV",
-      "name": "BINAR TV",
-      "stream_url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
-      "url": "http://lbgo.bozztv.com/ssh101/live/biner-zaxo/chunks.m3u8?lb_backend_hint=7&referer=https://ssh101.com/",
+      "title": "Oremar tv",
+      "name": "Oremar tv",
+      "stream_url": "http://183.giatvcdn.com/giatv/giatv-stv/StvOREMAR/chunks.m3u8",
+      "url": "http://183.giatvcdn.com/giatv/giatv-stv/StvOREMAR/chunks.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17922673.png?v=2"
+      "logo": "https://files.cdn-files-a.com/uploads/278563/800_6aafd3e50686f.png"
     },
     {
       "title": "Kurd 4k",
