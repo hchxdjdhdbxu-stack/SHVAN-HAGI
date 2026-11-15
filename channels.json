@@ -1340,8 +1340,8 @@
     {
       "title": "Bin sport 3 SD",
       "name": "Bin sport 3 SD",
-      "stream_url": "https://bein3.houdatv.workers.dev/live.m3u8?key=68452",
-      "url": "https://bein3.houdatv.workers.dev/live.m3u8?key=68452",
+      "stream_url": "http://premium2.ottpro2.org:8789/live/alexandre/5939369/89342.ts",
+      "url": "http://premium2.ottpro2.org:8789/live/alexandre/5939369/89342.ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
