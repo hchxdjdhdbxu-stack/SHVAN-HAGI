@@ -526,8 +526,8 @@
     {
       "title": "SPEDA TV",
       "name": "SPEDA TV",
-      "stream_url": "http://www.speda1.site/upload/images/spedahd.m3u8",
-      "url": "http://www.speda1.site/upload/images/spedahd.m3u8",
+      "stream_url": "https://www.speda1.site/upload/images/spedahd.m3u8",
+      "url": "https://www.speda1.site/upload/images/spedahd.m3u8",
       "referer": "https://www.speda.net/",
       "drm_key": "",
       "user_agent": "",
