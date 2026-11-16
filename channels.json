@@ -207,8 +207,8 @@
     {
       "title": "KURDMAX SHOW SORANI",
       "name": "KURDMAX SHOW SORANI",
-      "stream_url": "http://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8",
-      "url": "http://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8",
+      "stream_url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802123&extension=m3u8",
+      "url": "http://ztv01.info:8080/play/live.php?mac=00:1A:79:6E:2A:20&stream=802123&extension=m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
