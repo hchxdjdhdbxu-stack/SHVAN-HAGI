@@ -1527,8 +1527,8 @@
     {
       "title": "Alwan sport 2",
       "name": "Alwan sport 2",
-      "stream_url": "https://blcco.linkip.org/live/3460_.m3u8",
-      "url": "https://blcco.linkip.org/live/3460_.m3u8",
+      "stream_url": "http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402386&extension=ts",
+      "url": "http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402386&extension=ts",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
