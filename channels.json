@@ -240,8 +240,8 @@
     {
       "title": "Dasnya tv",
       "name": "Dasnya tv",
-      "stream_url": "http://myrestreamer.com:8080/live/09866shwan/lcxgCHm2XU1l4w/56008.ts",
-      "url": "http://myrestreamer.com:8080/live/09866shwan/lcxgCHm2XU1l4w/56008.ts",
+      "stream_url": "http://myrestreamer.com:8080/live/09866shwan/lcxgCHm2XU1l4w/56008.m3u8",
+      "url": "http://myrestreamer.com:8080/live/09866shwan/lcxgCHm2XU1l4w/56008.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
