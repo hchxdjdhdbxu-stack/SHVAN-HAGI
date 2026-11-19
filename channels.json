@@ -1602,6 +1602,17 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyZl5vPjNB-alkSeC9KwMZuFxOFOGwYDFKg"
     },
     {
+      "title": "Alwan sport 1 HD",
+      "name": "Alwan sport 1 HD",
+      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/649702.ts",
+      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/649702.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_SPORT",
+      "logo": ""
+    },
+    {
       "title": "STARZ PLAY 2",
       "name": "STARZ PLAY 2",
       "stream_url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd?|drmScheme=clearkey&drmLicense=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed",
@@ -1633,17 +1644,6 @@
       "user_agent": "",
       "category": "AR_SPORT",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRreZEXWZSbFmCDdkRsRLKkonbTQiLOG7Od13V2sDSVzw&s"
-    },
-    {
-      "title": "Alwan sport 1 HD",
-      "name": "Alwan sport 1 HD",
-      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/649702.ts",
-      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/649702.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "AR_SPORT",
-      "logo": ""
     },
     {
       "title": "Alrabiaa",
