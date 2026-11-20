@@ -1503,17 +1503,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQ8JjcTxP0EouvPI9L62EyBOaV4nu_3A_E5qUp-2acg&s=10"
     },
     {
-      "title": "ALWAN SPORT 2 FHD",
-      "name": "ALWAN SPORT 2 FHD",
-      "stream_url": "http://restreamott.xyz/live/restreamtreetv/Arenatomas11/1024211.ts",
-      "url": "http://restreamott.xyz/live/restreamtreetv/Arenatomas11/1024211.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "AR_SPORT",
-      "logo": ""
-    },
-    {
       "title": "Alwan sport 1",
       "name": "Alwan sport 1",
       "stream_url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56755",
@@ -1523,6 +1512,17 @@
       "user_agent": "",
       "category": "AR_SPORT",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/5186.png?ts=1791884728547"
+    },
+    {
+      "title": "ALWAN SPORT 2 FHD",
+      "name": "ALWAN SPORT 2 FHD",
+      "stream_url": "http://restreamott.xyz/live/restreamtreetv/Arenatomas11/1024211.ts",
+      "url": "http://restreamott.xyz/live/restreamtreetv/Arenatomas11/1024211.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "AR_SPORT",
+      "logo": ""
     },
     {
       "title": "Alwan sport 2",
