@@ -964,17 +964,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BNQFkX_On_CRaGei2u3tq6fO7PWd6kCjLs31LgPfxA&s=10"
     },
     {
-      "title": "GK PLUS",
-      "name": "GK PLUS",
-      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "KURD TV",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107814.png?v=1"
-    },
-    {
       "title": "Khak",
       "name": "Khak",
       "stream_url": "http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8",
@@ -1083,6 +1072,17 @@
       "user_agent": "",
       "category": "KURD TV",
       "logo": "https://www.appcreator24.com/srv/imgs/cards/temp/6219.png?ts=1794484971374"
+    },
+    {
+      "title": "GK PLUS",
+      "name": "GK PLUS",
+      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107814.png?v=1"
     },
     {
       "title": "Duhok sport ",
