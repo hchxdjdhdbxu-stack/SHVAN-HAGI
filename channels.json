@@ -381,15 +381,15 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17630246.png?v=5"
     },
     {
-      "title": "ZAGROS TV",
-      "name": "ZAGROS TV",
-      "stream_url": "http://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8",
-      "url": "http://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8",
+      "title": "Biner tv",
+      "name": "Biner tv",
+      "stream_url": "http://183.giatvcdn.com/ssh101/ssh101/binertvzaxo/playlist.m3u8",
+      "url": "http://183.giatvcdn.com/ssh101/ssh101/binertvzaxo/playlist.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
       "category": "KURD TV",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBSJgwWqbJK06wUFXHvglkQmo5mZ4eC0xKPkXCEIykQ&s"
+      "logo": "https://files.cdn-files-a.com/uploads/278563/800_6aa01c1fe8fea.png"
     },
     {
       "title": "Mix kurd ",
