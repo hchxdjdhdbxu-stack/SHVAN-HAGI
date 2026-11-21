@@ -383,8 +383,8 @@
     {
       "title": "ZAGROS TV",
       "name": "ZAGROS TV",
-      "stream_url": "http://live.8kultra.org:80/live/dyHPtP2e/bgqxhHR/701586.m3u8",
-      "url": "http://live.8kultra.org:80/live/dyHPtP2e/bgqxhHR/701586.m3u8",
+      "stream_url": "http://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8",
+      "url": "http://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
