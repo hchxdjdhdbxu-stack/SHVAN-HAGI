@@ -2570,6 +2570,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_17902631.png?v=1"
     },
     {
+      "title": "Native tv",
+      "name": "Native tv",
+      "stream_url": "http://nativetv.zemmedya.online/hls/yayin/index.m3u8",
+      "url": "http://nativetv.zemmedya.online/hls/yayin/index.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "DOCUMENTARY",
+      "logo": ""
+    },
+    {
       "title": "VS MOVIES HIT",
       "name": "VS MOVIES HIT",
       "stream_url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PMC7L8U7RR5GDK/31644/index.m3u8",
