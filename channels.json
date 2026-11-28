@@ -1140,17 +1140,6 @@
       "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "title": "GK PLUS",
-      "name": "GK PLUS",
-      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107814.png?v=1"
-    },
-    {
       "title": "NRT-SPORT ",
       "name": "NRT-SPORT ",
       "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
@@ -1160,6 +1149,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jCjj8PwO6JUNAYnBndctc6SP-NV1LTMGkrA36pjY6w&s=10"
+    },
+    {
+      "title": "GK PLUS",
+      "name": "GK PLUS",
+      "stream_url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18107814.png?v=1"
     },
     {
       "title": "Duhok sport 1",
