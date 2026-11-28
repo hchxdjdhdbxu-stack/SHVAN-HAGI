@@ -372,8 +372,8 @@
     {
       "title": "DENGE ZELAL",
       "name": "DENGE ZELAL",
-      "stream_url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
-      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "stream_url": "http://dengezelaltv.com/hls/yayin/index.m3u8",
+      "url": "http://dengezelaltv.com/hls/yayin/index.m3u8",
       "referer": "",
       "drm_key": "",
       "user_agent": "",
