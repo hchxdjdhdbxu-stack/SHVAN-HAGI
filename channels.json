@@ -1206,6 +1206,17 @@
       "logo": "https://www.appcreator24.com/srv/imgs/cards/o3653569_18105732.png?v=1"
     },
     {
+      "title": "NRT-SPORT ",
+      "name": "NRT-SPORT ",
+      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
+      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jCjj8PwO6JUNAYnBndctc6SP-NV1LTMGkrA36pjY6w&s=10"
+    },
+    {
       "title": "Persiana sport 2",
       "name": "Persiana sport 2",
       "stream_url": "http://pepsi.abntv.live/hls/4spstream.m3u8?checkedby:SHVAN",
@@ -1237,17 +1248,6 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmN5SZY4ESgYfg7BSrV3_lR0o0b1SiYyNcrRR1kGePw&s=10"
-    },
-    {
-      "title": "NRT-SPORT ",
-      "name": "NRT-SPORT ",
-      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
-      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jCjj8PwO6JUNAYnBndctc6SP-NV1LTMGkrA36pjY6w&s=10"
     },
     {
       "title": "SPORT",
