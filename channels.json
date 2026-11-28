@@ -1129,17 +1129,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXBEY4l4uv4dYcVBQYDkv0spqkKHRpPfbJ-PCxXGH6A&s=10"
     },
     {
-      "title": "AVA SPORT",
-      "name": "AVA SPORT",
-      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601394.ts",
-      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601394.ts",
-      "referer": "",
-      "drm_key": "",
-      "user_agent": "",
-      "category": "SPORTS",
-      "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "title": "NRT-SPORT ",
       "name": "NRT-SPORT ",
       "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601396.ts",
@@ -1149,6 +1138,17 @@
       "user_agent": "",
       "category": "SPORTS",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jCjj8PwO6JUNAYnBndctc6SP-NV1LTMGkrA36pjY6w&s=10"
+    },
+    {
+      "title": "AVA SPORT",
+      "name": "AVA SPORT",
+      "stream_url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601394.ts",
+      "url": "http://rahmmax.org:2052/live/18556549459333/32406762520313/601394.ts",
+      "referer": "",
+      "drm_key": "",
+      "user_agent": "",
+      "category": "SPORTS",
+      "logo": "https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "title": "GK PLUS",
